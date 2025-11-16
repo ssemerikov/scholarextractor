@@ -3,6 +3,7 @@ Tests for metadata extraction module.
 """
 
 import pytest
+from unittest.mock import patch
 from src.metadata import MetadataExtractor
 from src.storage import PaperMetadata
 
@@ -205,3 +206,54 @@ class TestMetadataExtractor:
 
         # Should not crash, may return empty list
         assert isinstance(papers, list)
+
+    def test_extract_handles_malformed_individual_results(self):
+        """Test extraction handles malformed individual results gracefully (production reliability).
+
+        Covers lines: metadata.py:50-52
+        Value: ⭐⭐⭐⭐ - Critical for production, ensures one bad result doesn't break entire search
+        """
+        extractor = MetadataExtractor()
+
+        # HTML with several results
+        html = """<html>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/1">Good Paper 1</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/2">Paper 2</a></h3>
+                <div class="gs_a">Author - Venue, 2021</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/3">Good Paper 3</a></h3>
+                <div class="gs_a">Author - Venue, 2022</div>
+            </div>
+        </html>"""
+
+        # Mock _extract_paper_from_result to raise exception for middle result
+        original_extract = extractor._extract_paper_from_result
+        call_count = [0]
+
+        def mock_extract(div):
+            call_count[0] += 1
+            if call_count[0] == 2:  # Second call raises exception
+                raise ValueError("Simulated extraction error")
+            return original_extract(div)
+
+        with patch.object(extractor, '_extract_paper_from_result', side_effect=mock_extract):
+            with patch('src.metadata.logger') as mock_logger:
+                papers = extractor.extract_from_search_page(html)
+
+                # Should extract papers 1 and 3, skip paper 2 (exception)
+                assert len(papers) == 2
+                assert isinstance(papers, list)
+
+                # Should have logged warning about failed extraction
+                warning_calls = [str(call) for call in mock_logger.warning.call_args_list]
+                assert any('Error extracting paper' in call for call in warning_calls)
+
+                # Verify good papers were extracted
+                titles = [p.title for p in papers]
+                assert 'Good Paper 1' in titles
+                assert 'Good Paper 3' in titles

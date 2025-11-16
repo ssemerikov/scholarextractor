@@ -1,0 +1,11 @@
+{
+  "papers_processed": 0,
+  "last_paper_id": null,
+  "query": {
+    "url": "https://scholar.google.com/scholar?q=test",
+    "description": "Google Scholar search",
+    "executed_at": "2025-11-16T20:51:09.349634"
+  },
+  "timestamp": "2025-11-16T20:51:19.333366",
+  "custom_state": {}
+}
