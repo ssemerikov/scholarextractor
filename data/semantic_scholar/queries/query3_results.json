@@ -1,0 +1,1967 @@
+[
+  {
+    "id": "00c3f69ad568ef91644cb9e56e9637241935fba2",
+    "title": "Social network programming with JavaScript and Spotter",
+    "authors": [
+      "T. Purewal",
+      "David Brown"
+    ],
+    "year": 2012,
+    "venue": "ACM Southeast Regional Conference",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/00c3f69ad568ef91644cb9e56e9637241935fba2",
+    "doi": "10.1145/2184512.2184598",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069434"
+  },
+  {
+    "id": "01b1320babd11101a7478f0af03feff22455f4e2",
+    "title": "Hosting Virtual Orientation Tours of rural practice settings via the TCEN website",
+    "authors": [
+      "D. Cross"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/01b1320babd11101a7478f0af03feff22455f4e2",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069456"
+  },
+  {
+    "id": "01e72fe27dccab24434999ad766259dacb38b207",
+    "title": "Development of Mental Health Mobile Application for the Office of Guidance and Counseling",
+    "authors": [
+      "Philip D. Geneta",
+      "Rhea C. Coloma",
+      "Anne D. Garcia",
+      "John Carlo",
+      "E. Rosales"
+    ],
+    "year": 2022,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/01e72fe27dccab24434999ad766259dacb38b207",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069465"
+  },
+  {
+    "id": "0347c1c8f41490f1ae4612f1aad0a636062d29f7",
+    "title": "Practice and Design of Web Development Course Practice Teaching Based on Working-Learning Integration",
+    "authors": [
+      "M. Rong-fei"
+    ],
+    "year": 2011,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0347c1c8f41490f1ae4612f1aad0a636062d29f7",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069471"
+  },
+  {
+    "id": "0363556c22aaa62c305338e78be51035d6088fdd",
+    "title": "A Case Study in Building Communities of Common Interest: How One Website Changed Jazz History",
+    "authors": [
+      "S. A. Varden"
+    ],
+    "year": 2009,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0363556c22aaa62c305338e78be51035d6088fdd",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069477"
+  },
+  {
+    "id": "040f73ab9c840798703098202c5dc2dbe1df767b",
+    "title": "The Design and Implementation of the Test and Evaluation System of College Students' Overall Quality Based on ASP.NET",
+    "authors": [
+      "Zhang Peng-fei"
+    ],
+    "year": 2007,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/040f73ab9c840798703098202c5dc2dbe1df767b",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069483"
+  },
+  {
+    "id": "051f87d41a4cbf8bbcf002e2430afe3e2711b791",
+    "title": "Leveraging Human-in-the-Loop Engagement Through AI in Web Design Education: A Case Study on Adapting to Dynamic Client Requirements",
+    "authors": [
+      "Jason Lively"
+    ],
+    "year": 2024,
+    "venue": "International Journal of Emerging and Disruptive Innovation in Education : VISIONARIUM",
+    "abstract": "The integration of Artificial Intelligence (AI) within educational frameworks, particularly in disciplines such as web design and development, represents a significant evolution in pedagogical strategies. This article examines a unique educational setup where students, while engaging in a web design class, utilize AI tools for text, image, and code creation within a simulated real-world scenario involving a client—dubbed \"Chef Cookie Cutter\". This simulated client interaction introduces unpredictability through mid-assignment requirement changes, thereby mimicking the dynamic nature of real-world web development projects. The focus of this case study is the critical role of human-in-the-loop (HITL) engagement in AI-assisted assignments, where students' adaptability, creativity, and problem-solving skills are put to the test. Such engagement not only prepares students for the intricacies and challenges of their future professions but also emphasizes the importance of human oversight in AI-driven processes. By incorporating generative AI, video avatars, and personalized learning mechanisms, this educational approach fosters a rich, interactive learning environment that enhances digital pedagogy. The findings suggest that integrating HITL in AI assignments significantly improves learning outcomes by fostering an adaptive learning environment that closely mirrors the complexities and demands of the industry, thereby preparing students more effectively for their future careers.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/051f87d41a4cbf8bbcf002e2430afe3e2711b791",
+    "doi": "10.62608/2831-3550.1016",
+    "bibtex": "",
+    "pdf_url": "https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1016&context=ijedie",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069490"
+  },
+  {
+    "id": "060a6fe05e85ac289e1515c157c908b70d386b7d",
+    "title": "Student experiences and expectations of technology",
+    "authors": [
+      "Michael Sankey"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/060a6fe05e85ac289e1515c157c908b70d386b7d",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069497"
+  },
+  {
+    "id": "062aa1fb782a3897c14af9979f5fa7f4c8a7cad7",
+    "title": "Enhanced Discovering Computers 2017, Loose-leaf Version",
+    "authors": [
+      "Misty E. Vermaat",
+      "Susan L. Sebok",
+      "S. Freund",
+      "M. Frydenberg",
+      "Jennifer T. Campbell"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/062aa1fb782a3897c14af9979f5fa7f4c8a7cad7",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069504"
+  },
+  {
+    "id": "06f1e7ddce1c1e1c710beb7115daef570bd9690c",
+    "title": "Peminjaman alat laboratorium jurusan bisnis dan informatika berbasis web",
+    "authors": [
+      "Alamsyah Riza",
+      "Firdaus Asyari",
+      "Mohamad dimyati Ayatullah",
+      "Wayan Suardinata",
+      "L. Hakim",
+      "J. Prasetyo",
+      "I. Artikel",
+      "Peminjaman Alat",
+      "Laboratorium Politeknik",
+      "Negeri Banyuwangi"
+    ],
+    "year": 2024,
+    "venue": "JURNAL ELTEK",
+    "abstract": "Kemajuan teknologi mengubah cara akses dan pengelolaan informasi, terutama dalam pendidikan. Politeknik Negeri Banyuwangi, melalui Jurusan Bisnis dan Informatika, menghadapi tantangan dalam pengelolaan peminjaman alat laboratorium yang masih manual, menyebabkan inefisiensi dan risiko kesalahan pencatatan. Penelitian ini bertujuan mengembangkan sistem informasi peminjaman alat laboratorium berbasis web menggunakan metode Rapid Application Development (RAD) dan Framework Laravel. Sistem ini dirancang untuk memudahkan proses pengajuan, verifikasi, dan pemantauan peminjaman oleh mahasiswa, dosen, teknisi, dan kepala laboratorium. Metode RAD digunakan karena kecepatan dalam pengembangan web. Pengujian black box dilakukan untuk memastikan setiap komponen berfungsi sesuai spesifikasi, dengan hasil menunjukkan 100% valid serta 80.17% hasil dari pengujian UAT. Hasil menunjukkan peningkatan signifikan dalam efisiensi dan akurasi proses peminjaman. Pengguna dapat mengajukan dan memverifikasi peminjaman alat dengan cepat dan tepat, sementara teknisi dan kepala laboratorium dapat memantau ketersediaan dan kondisi alat secara real-time. Sistem ini meningkatkan kualitas layanan laboratorium melalui penyediaan data dan laporan peminjaman yang akurat dan terkini.\n \nABSTRACT\nTechnological advancements have transformed the way information is accessed and managed, especially in education. Politeknik Negeri Banyuwangi, through the Department of Business and Informatics, faces challenges in managing laboratory equipment loans, which are still done manually, leading to inefficiencies and risks of recording errors. This research aims to develop a web-based laboratory equipment loan information system using the Rapid Application Development (RAD) method and the Laravel Framework. This system is designed to facilitate the process of application, verification, and monitoring of loans by students, lecturers, technicians, and the head of the laboratory. The RAD method is used due to its speed in web development. Black box testing was conducted to ensure each component functions according to specifications, with results showing 100% conformity and 80.17% results from UAT testing. The development results show a significant increase in the efficiency and accuracy of the loan process. Users can quickly and accurately apply for and verify equipment loans, while technicians and the head of the laboratory can monitor the availability and condition of the equipment in real-time. This system also improves the quality of laboratory services by providing accurate and up-to-date loan data and reports",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/06f1e7ddce1c1e1c710beb7115daef570bd9690c",
+    "doi": "10.33795/eltek.v22i2.5545",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069514"
+  },
+  {
+    "id": "06f90f167b437446f0a5bfc2a81b978d57655d92",
+    "title": "Evaluation of tools for assessing Web applications",
+    "authors": [
+      "V. Suhina",
+      "M. Kozina",
+      "S. Groš"
+    ],
+    "year": 2007,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/06f90f167b437446f0a5bfc2a81b978d57655d92",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069520"
+  },
+  {
+    "id": "0818376076e7c04332a3592f261b73f80ea6f920",
+    "title": "INFORMATION COMMUNICATIONS AND TECHNOLOGY ENTREPRENEURSHIP SKILLS REQUIRED BY ECONOMICS EDUCATION STUDENTS FOR SELF-EMPLOYMENT",
+    "authors": [
+      "A. U. PROF. OBAYI",
+      "Eric Oleabhiele",
+      "Oziegbe",
+      "Akula Lilian",
+      "Kwaha",
+      "N. Gotip",
+      "Wokji",
+      "Sahara African Academic"
+    ],
+    "year": 2025,
+    "venue": "Journal of Human, Social and Political Science Research",
+    "abstract": "This study examined Information Communications and Technology Entrepreneurship Skills required by Economics Education Students for Self-Employment in the Federal Capital Territory (FCT) of Abuja, Nigeria.  The study design employed was a descriptive survey. All 510 Economics Education students enrolled in universities in the Federal Capital Territory of Abuja, Nigeria, make up the study's population. Because of the community's unique features and the researchers' adept management of its size, total population sampling was employed. There are 241 female and 269 male pupils in this group. The research questions were answered using mean scores with standard deviations, and the independent t-test was employed to test the hypotheses at the 0.05 significance level.  The findings of this study underscore the critical role of Information and Communication Technology (ICT) entrepreneurship skills in equipping Economics Education students for self-employment in the contemporary digital economy and the study conclude that gender does not significantly influence the acquisition or Information and Communication Technology skills required for sustainability. The study recommends that universities offering Economics Education programs should revise their curricula to incorporate ICT entrepreneurship modules. These should include hands-on training in digital skills such as coding, web development, and digital marketing, ensuring that students graduate with practical and market-ready competencies amongst several others.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0818376076e7c04332a3592f261b73f80ea6f920",
+    "doi": "10.70382/sjhspsr.v7i6.011",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069528"
+  },
+  {
+    "id": "08db15f58eaff331cdac436b0a4105b28befcf39",
+    "title": "Visual WebBits: A Framework for Design-focused Code Snippets for Students of National University",
+    "authors": [
+      "Renz Kervy D. Gulmatico",
+      "Daniela Cassandra A. Dela Cruz",
+      "Lee Anne Marscianne L. Parafina",
+      "Aljane Guzman",
+      "Rogel M. Labanan"
+    ],
+    "year": 2025,
+    "venue": "International Conference on E-Education, E-Business, E-Management, and E-Learning",
+    "abstract": "The evolution of web development is bringing many challenges to developers, particularly at the design level. Many developers struggle to build a stunning yet functionally successful website due to the overwhelming number of available frameworks and libraries. This paper analyzes these problems with a proposed solution through Visual WebBits, a web-based platform designed to help students solve the hurdles of web design. With essential web development languages, code snippets highlighting design tutorials are provided. Intended for the use of the College of Computing and Information Technology, CCIT, the platform aims to facilitate instruction and learning by systematically providing learning materials on a single platform. It features a brief alignment with the Commission on Higher Education (CHED) standards, which aims to enhance students' competencies, honing them into globally competitive industry professionals. The platform comes with a great amount of code snippets focused on design, tutorials, and real-time previews, which makes learning and development interactive, allowing students to digest lessons more easily. It also comes with personalized educator tools that will enable professors to make custom exercises, accurately track student progress, and conveniently present lessons for lectures. Visual WebBits thus supports both teaching and learning by organizing the educational resources needed. The system supports students and educators in the most user-friendly manner, from a live code editor to educational exercises to make the environment of web development more efficient and engaging. In conclusion, the initiative offers a scaled solution in which users are equipped with effective resources to optimize the web design process while improving their technical competencies.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/08db15f58eaff331cdac436b0a4105b28befcf39",
+    "doi": "10.1109/IC4e65071.2025.11075430",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069536"
+  },
+  {
+    "id": "090be012b8fae7265cf9625e4b8b6c40a5c3883a",
+    "title": "Perancangan UI/UX Untuk Situs Web Edukasi Memperkuat Respon Terhadap Perundungan",
+    "authors": [
+      "Iqbal Zabal Rohman"
+    ],
+    "year": 2024,
+    "venue": "Inisiatif : Jurnal Dedikasi Pengabdian Masyarakat",
+    "abstract": "The Independent Study Program in Web Development at PT Kinema Systrans Multimedia, supported by Infinite Learning and the Merdeka Belajar - Kampus Merdeka initiative by the Ministry of Education, Culture, Research, and Technology of Indonesia, is designed to sharpen students' skills in web development to meet the demands of Industry 4.0. The program offers an intensive curriculum that includes UI/UX design, frontend and backend development, and cybersecurity. Students also engage in micro-projects focusing on the issue of bullying, where they research and develop innovative web-based solutions to aid victims. This program not only enhances technical skills but also non-technical abilities such as public speaking and digital marketing, shaping well-rounded web developers and contributing to the resolution of social issues",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/090be012b8fae7265cf9625e4b8b6c40a5c3883a",
+    "doi": "10.61227/inisiatif.v3i1.147",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069542"
+  },
+  {
+    "id": "0913d6d181ed6af1f7b4894635a0fa96d6718031",
+    "title": "Mejorar el rendimiento del desarrollo de aplicaciones web basada en modelo base de datos orientado a objetos",
+    "authors": [
+      "Adolfo Hans Vega Fajardo"
+    ],
+    "year": 2018,
+    "venue": "",
+    "abstract": "Nowadays information systems are struggling to achieve the desired success, because one of its components is the development of web application struggle to be done, this is it because it takes a while for the creation of programming and once separately to create the data model, there is no technique that integrates both. Recent studies have shown that there are several programming techniques such as object oriented programming, aspect‐ oriented programming and programming targeted agents, and the creation of the data model are also techniques such as database connection object‐oriented entity, The this research aims to develop a web development technique based on database modeling object‐oriented model using entity relationship. Consequently, this study proposes two measures to validate the performance of web application development using analysis of variance, first the number of lines of programs created and the second response time database, led a group of students of the course web programming of the School of Universidad Nacional de Ingeniera UNI. The results obtained are expected to reach that software professionals have a means to strengthen their knowledge in the development of web application, likewise that information systems projects in the development stage of programming, has the desired success.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0913d6d181ed6af1f7b4894635a0fa96d6718031",
+    "doi": "10.21754/TECNIA.V27I1.123",
+    "bibtex": "",
+    "pdf_url": "http://revistas.uni.edu.pe/index.php/tecnia/article/download/123/88",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069547"
+  },
+  {
+    "id": "0a6fb8eefacb5827a78b505d7db9fb2d6b53bb6e",
+    "title": "Application of AJAX technology in the student fees system",
+    "authors": [
+      "Yan Qian-shi"
+    ],
+    "year": 2008,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0a6fb8eefacb5827a78b505d7db9fb2d6b53bb6e",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069552"
+  },
+  {
+    "id": "0b78bf303e5a98545a3304d9c4a91857adf05d86",
+    "title": "A Web-Based Academic Project Management and Evaluation System",
+    "authors": [
+      "Prof. Rekha Sahare1,"
+    ],
+    "year": 2025,
+    "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "abstract": "A Web-Based Academic project management and evaluation system refered as ThesisIT is a responsive web-based platform designed to streamline project submission and evaluation for final-year and third-year students. This system enables students to submit their projects digitally, while faculty members can evaluate them online through a role-based authentication system that categorizes users into students, project guides, and administrators. Additionally, ThesisIT introduces features such as Project Refinery and Project Hub for enhanced project organization and accessibility. This paper presents the design, implementation, and evaluation of ThesisIT, highlighting its efficiency, usability, and potential impact on academic project management. The system is expected to improve the workflow of project handling, reduce administrative burden, and ensure secure storage of academic work, preventing loss or tampering of crucial research data.\n\n\nKeywords: Digital thesis, Role-based authentication, Project repository, Student project management system, Web development, CSS, Node Js, Express Js, ThesisIT",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0b78bf303e5a98545a3304d9c4a91857adf05d86",
+    "doi": "10.55041/ijsrem43321",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069558"
+  },
+  {
+    "id": "0c85a369da4b824c9a34f24b14c23a20029fdde9",
+    "title": "Development of Virtual Coding Platform",
+    "authors": [
+      "V. Mane",
+      "Aditya Raje",
+      "Sarang Rajurkar",
+      "Rajas Rakhe",
+      "Mihir Rakhonde",
+      "Mohit Ramdham"
+    ],
+    "year": 2023,
+    "venue": "Journal of Web Applications and Cyber Security",
+    "abstract": "To achieve an integrated environment and interactive experience of e-learning, we have designed a virtual coding lab system. This paper introduces a concept called a coding lab for teachers and students of a college. It includes creating a website where students can code and that can be monitored by the teacher. The students can also submit the pdf code file to the teacher for assessment. Using some complex web development tools, this paper intends to make life easier for teachers and students by providing a simple user-friendly interface for both and making lab sessions unique and convenient. The principal objective of the project is to create improvement in the existing E-Learning practices. A big problem which the current education system is facing is to providing a good quality education in virtual or online mode. A small part of that is computer language teaching. This is identified as the problem statement to work upon in the project.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0c85a369da4b824c9a34f24b14c23a20029fdde9",
+    "doi": "10.48001/jowacs.2023.116-10",
+    "bibtex": "",
+    "pdf_url": "https://qtanalytics.in/publications/index.php/JoWACS/article/download/67/34",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069563"
+  },
+  {
+    "id": "0cb597b9cda8f60d61ca92f6c0696495628f1aff",
+    "title": "Research on the Application of Heuristic Teaching Method in Web Development Technology Course",
+    "authors": [
+      "Yang Yan-li"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0cb597b9cda8f60d61ca92f6c0696495628f1aff",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069567"
+  },
+  {
+    "id": "0d4ec4139fa57c4c1338912287cfa3740ef598ad",
+    "title": "Design and Implementation of University Library Share Website System Based on P2P Platform",
+    "authors": [
+      "Linlin Kuang",
+      "H. Ye",
+      "Yanlan Yang"
+    ],
+    "year": 2017,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0d4ec4139fa57c4c1338912287cfa3740ef598ad",
+    "doi": "10.12677/CSA.2017.72021",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.12677/csa.2017.72021",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069571"
+  },
+  {
+    "id": "0d6b7722081be3203192d31472fde234ee4c4535",
+    "title": "Learners’ and Educators’ Perspectives on the Value of Web Design in the South African Grade 11 Computer Applications Technology Curriculum",
+    "authors": [
+      "Colin Pilkington",
+      "I. Sanders"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0d6b7722081be3203192d31472fde234ee4c4535",
+    "doi": "10.1080/18117295.2016.1236999",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069575"
+  },
+  {
+    "id": "0de1791a2f54fd0bf07f81355e0da83a7726a459",
+    "title": "Law enforcement holds town hall forum Immigration policy restricts federal agents UT hosts annual technology conference New biobank links UT System schools",
+    "authors": [
+      "Zoe Y. Fu",
+      "Lisa Dreher",
+      "Catherine Marfin"
+    ],
+    "year": 2017,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0de1791a2f54fd0bf07f81355e0da83a7726a459",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069579"
+  },
+  {
+    "id": "0e69b49cd93b0421f68be38bb26e24dc23da94da",
+    "title": "An Event Listener or an Event Handler? Students Explain Event-drivenness in JavaScript",
+    "authors": [
+      "Aleksi Lukkarinen",
+      "T. Lehtinen",
+      "Lassi Haaranen",
+      "L. Malmi"
+    ],
+    "year": 2021,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0e69b49cd93b0421f68be38bb26e24dc23da94da",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069583"
+  },
+  {
+    "id": "0ec881504824db2ff16b53fcd05c1f388695cb18",
+    "title": "RestRho: A JSON-Based Domain-Specific Language for Designing and Developing RESTful APIs to Validate RhoArchitecture",
+    "authors": [
+      "Enrique Chavarriaga",
+      "Luis Rojas",
+      "Francy D. Rodríguez",
+      "Kat Sorbello",
+      "Francisco Jurado"
+    ],
+    "year": 2025,
+    "venue": "Future Internet",
+    "abstract": "Domain-Specific Languages with JSON grammar (JSON-DSLs) are specialized programming languages tailored to specific problem domains, offering higher abstraction levels and simplifying software implementation through the JSON standard. RhoArchitecture is an approach for designing and executing JSON-DSLs, incorporating a modular programming model, a JSON-based evaluation engine, and an integrated web development environment. This paper presents RestRho, a RESTful NodeJS server developed using two JSON-DSLs designed with RhoArchitecture: SQLRho and DBRestRho. These languages enable declarative specification of database operations and HTTP requests, respectively, supporting modularity, reuse, and template-based transformations. We validate the RestRho implementation through a dual approach. First, we apply software metrics to assess code quality, maintainability, and complexity. Second, we conduct an empirical study involving 39 final-year computer engineering students, who completed 18 structured tasks and provided feedback via questionnaires. The results demonstrate the tool’s usability, development efficiency, and potential for adoption in web application development.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0ec881504824db2ff16b53fcd05c1f388695cb18",
+    "doi": "10.3390/fi17080346",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069588"
+  },
+  {
+    "id": "0fc8ce4e71d21ffc5559b5297b76fc727d61a7da",
+    "title": "On Teaching Reform of Java Web Development Course in Higher Vocational Software Major",
+    "authors": [
+      "Wang Hong-lei"
+    ],
+    "year": 2012,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/0fc8ce4e71d21ffc5559b5297b76fc727d61a7da",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069591"
+  },
+  {
+    "id": "1042bd950e7f22af128b884af7564c31311cf0b4",
+    "title": "Carradale Manor Web Development Project",
+    "authors": [
+      "M. Dewar",
+      "Trevor Nesbit"
+    ],
+    "year": 2014,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1042bd950e7f22af128b884af7564c31311cf0b4",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069594"
+  },
+  {
+    "id": "1066b3d86cc08a931ad2dc06f840a859875d7e79",
+    "title": "Web Development Based on Struts and Hibernate Framework",
+    "authors": [
+      "Wang Huilin"
+    ],
+    "year": 2012,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1066b3d86cc08a931ad2dc06f840a859875d7e79",
+    "doi": "10.1007/978-3-642-25769-8_82",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069598"
+  },
+  {
+    "id": "10fe1d306ac1962f80c19fc1c54c94df9b0bc9a0",
+    "title": "Web-based content management system for academic purposes",
+    "authors": [
+      "H. Tan",
+      "K. Chua",
+      "M. Wahab",
+      "M. Fauadi"
+    ],
+    "year": 2008,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/10fe1d306ac1962f80c19fc1c54c94df9b0bc9a0",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069601"
+  },
+  {
+    "id": "11089cfe8cace02d64e8a4921543884010096623",
+    "title": "Impact of Study Groups on Students' Learning and Engagement: Across Different Online Formats of a Web-development Course",
+    "authors": [
+      "Debarati Basu",
+      "S. Heckman"
+    ],
+    "year": 2023,
+    "venue": "Frontiers in Education Conference",
+    "abstract": "With the rise in enrollment in computing programs, online learning offers the flexibility to scale up enrollment. To help students succeed in an online course, evidence-based engagement strategies need to be incorporated and evaluated for their effectiveness in increasing student engagement, which is a key determinant of student learning outcomes. This also addresses a concern with online learning, where students often feel detached and disengaged. In this innovative practice full paper, we describe our implementation of a study group strategy that we employed to increase students' engagement across different online formats of an upper-level computing course. Study groups are intended to allow students to discuss course concepts, foster social-emotional engagement, and provide positive learning experiences rather than being dependent on group members to complete a task or receive a grade. Although the strategy has been implemented in face-to-face computing courses, it has not been implemented and evaluated in different online formats of a computing course. The primary contribution of this study is the empirical evidence of the impact of study groups on students' learning outcome and engagement across the online formats of the course. The context of this study is an upper-level web-development course offered in different online formats, including online asynchronous in Spring 2020, online asynchronous and online hybrid in Fall 2020, and online synchronous in Spring 2021, where the study group strategy was employed. Three semesters of data collection were conducted using questionnaires administered at the beginning and end of the courses. Students learning outcomes and engagement were not significantly different between the different online course formats, allowing us to compare across the courses. Findings indicate that a study group strategy has a positive relationship with participation engagement in all of the online course formats. However, study groups may not directly influence learning outcomes. A study group strategy may improve learning outcomes in an online environment if the instructor facilitates the study group's work. This study has implications for utilizing study groups in different online formats of upper-level computing courses.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/11089cfe8cace02d64e8a4921543884010096623",
+    "doi": "10.1109/FIE58773.2023.10342918",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069605"
+  },
+  {
+    "id": "1115d01abb53217647acc90a56fca27481d99332",
+    "title": "Teaching web application development: Microsoft proprietary or open systems?",
+    "authors": [
+      "S. Corich"
+    ],
+    "year": 2008,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1115d01abb53217647acc90a56fca27481d99332",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069608"
+  },
+  {
+    "id": "1161764ef13a7896ecde82007e45eb27de547fa7",
+    "title": "SCHOOL SHOP ECOMMERCE PROJECT",
+    "authors": [
+      "Miss Neelam Dikondwar"
+    ],
+    "year": 2024,
+    "venue": "Gurukul International Multidisciplinary Research Journal",
+    "abstract": "Abstract This research paper explores the development of an e-commerce platform specifically designed for a school shop using the MERN stack, which comprises MongoDB, Express.js, React, and Node.js. The primary objective is to create a user-friendly, efficient, and scalable online store that caters to the needs of students, parents, and school administrators for purchasing school-related products. The study highlights the increasing importance of e-commerce in educational settings and discusses the advantages of employing the MERN stack, such as seamless integration, high performance, and ease of development. The methodology section provides a comprehensive overview of the development process, including system design, frontend and backend development, database management, and integration of key functionalities like user authentication, product catalogue, shopping cart, and payment gateway. The implementation phase details the practical application of each MERN stack component, showcasing how MongoDB’s flexibility supports varied data types, how Express.js simplifies server-side development, how React enhances user experience through dynamic interfaces, and how Node.js ensures efficient server-side execution. The project undergoes rigorous testing, including performance, usability, and security assessments, to validate its functionality and reliability. Index Terms – E-commerce, Online Shopping Platform, Web Development, School Shop, User Authentication, Product Management, Shopping Cart, Payment Processing, Scalability, Web Application Development",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1161764ef13a7896ecde82007e45eb27de547fa7",
+    "doi": "10.69758/gpxr4947",
+    "bibtex": "",
+    "pdf_url": "https://gurukuljournal.com/wp-content/uploads/2024/06/Issue–IVI-Volume–XII-003.pdf",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069613"
+  },
+  {
+    "id": "1169283c05df5288e0174d047875818434da4a2d",
+    "title": "Study on the Ideological and Political Education Work System based on WEB Technology",
+    "authors": [
+      "D. Yang"
+    ],
+    "year": 2015,
+    "venue": "Proceedings of the 2015 International Conference on Social Science and Technology Education",
+    "abstract": "According to the content and characteristics of Ideological and political education website, this paper designs a the network education platform with teacher-student interaction, psychological counseling, student self-display and other functions based on Web development technology of .NET, using ASP.NET and C# to realize each functional module of Ideological and political education system; at the same time, we studied the Web services and encryption technology based on WEB, and proposed a campus information exchange and implementation of single login on system model. Using functional analysis method to establish the demand model of the system, combined with the actual situation of the relevant theory of the database, design the conceptual structure and logical structure for system database. The paper design the system implementation process and the specific implementation strategy, network ideological and political education platform provides some reference and inspiration for the university. Keywords-Mathematics; Ideological and political education; web technology; Asp.net; Security technology;",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1169283c05df5288e0174d047875818434da4a2d",
+    "doi": "10.2991/ICSSTE-15.2015.31",
+    "bibtex": "",
+    "pdf_url": "https://download.atlantis-press.com/article/18697.pdf",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069617"
+  },
+  {
+    "id": "1170761ff94f93da0f66cc348bce2de38fc95548",
+    "title": "Introducing MAGPIE (Metadata Assignment GUI Providing Ingest and Export)",
+    "authors": [
+      "W. Welling",
+      "S. Elmquist",
+      "James S. Creel",
+      "Jeremy M. Huff",
+      "J. Savell",
+      "R. Mathew",
+      "Doug Hahn",
+      "Michael Bolton"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1170761ff94f93da0f66cc348bce2de38fc95548",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069622"
+  },
+  {
+    "id": "13200968bf47137a8f11f1d4faa82197f5e28524",
+    "title": "Intelligent Learning First Aid (ILFA BOT)",
+    "authors": [
+      "Mazlina Mustaffa"
+    ],
+    "year": 2021,
+    "venue": "International Journal of Research Publications",
+    "abstract": "This project focused on Artificial Intelligent (AI) and a chatbot represents machine that answers questions using Natural Language Processing (NLP) and allows the user to start a conversation with the machine. This paper presents the intelligent learning system for first aid called ILFA bot that aims to create intelligent virtual human agents to serve the role of online first aid guide for students. The research only covers the topic of First aid and the modules in ILFA website are Home, About Us, Contact and Video. The topics covers in First Aid are burns and scalds, bleedings, bone fractures, poisoning and Cardio Pulmonary Resuscitation (CPR). This web is a responsive web. Responsive web design (RWD) is a web development approaches that creating a dynamic changes to the appearance of a website, depending on the screen size and orientation of the device being used to view it. The different this web to other learning website is student can communicate with our bot namely ILFA to ask about First Aid. The students will be able to learn about the First Aid in an interactive way with all the information video and if there are any further inquiries, they can communicate with the ILFA Bot.The architecture that use in this research is 3-tiers technology and a waterfall model as a methodology in this project. To test the function of ILFA bot, the researcher uses Black Box testing. The testing is based on chatterbox challenge and questions. The result from testing shows that ILFA Bot get 358 out of 500 points, 24% from the points is full mark from overall question.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/13200968bf47137a8f11f1d4faa82197f5e28524",
+    "doi": "10.47119/ijrp100821820212173",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.47119/ijrp100821820212173",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069626"
+  },
+  {
+    "id": "132cc0cc0d2afa750ff95d2ef6e91aa38863f4a7",
+    "title": "Critiquing the Critique: The Roles of the Group and the Expert in Feedback Delivery",
+    "authors": [
+      "Aaron Brown",
+      "Quentin Perrot",
+      "I. Prasad"
+    ],
+    "year": 2015,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/132cc0cc0d2afa750ff95d2ef6e91aa38863f4a7",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069631"
+  },
+  {
+    "id": "13a391a32a5afabd03fd0255cfbf96d8c6dda966",
+    "title": "E-Certificate Generation using MVC Model",
+    "authors": [
+      "Shubhada Labde",
+      "Aayushi Vaibhav Mehta",
+      "Akshit Dinesh Mandani",
+      "Rehan Ali Siddiqui"
+    ],
+    "year": 2023,
+    "venue": "2023 3rd International Conference on Intelligent Technologies (CONIT)",
+    "abstract": "With the advancement in digitalization over the internet, web development and its applications came into play. A web application is built as an interactive app using web development technologies. The purpose of developing this system is to replace the paper-based system with a digital system. This change in the system has allowed students to apply for their required certificates from anywhere in the world and track the status of their application. The end objective is to provide a dynamically generated certificate to the student.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/13a391a32a5afabd03fd0255cfbf96d8c6dda966",
+    "doi": "10.1109/CONIT59222.2023.10205702",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069636"
+  },
+  {
+    "id": "13c6690a94ddaa29751314c81f26e5d744322612",
+    "title": "Research of the computer model of the web service for testing knowledge",
+    "authors": [
+      "Aleksey Artiuh",
+      "Vladislav Maksimenko",
+      "Elena Tolstoluzskaya"
+    ],
+    "year": 2021,
+    "venue": "Bulletin of V.N. Karazin Kharkiv National University, series «Mathematical modeling. Information technology. Automated control systems»",
+    "abstract": "Testing is widely used as one of the methods of monitoring students' assimilation of knowledge and has a number of certain advantages over traditional methods of assessment. At schools and universities, tests can be used for monitoring and evaluate students' behavior, psyche, career guidance, or motivation. For a long time, paper tests have been used by educational institutions and private companies to assess student or employee performance. State exams and contests often include a multiple-choice test. Conducting such tests requires preparing a location for the test, spending time on checking and notifying students. Currently, there are a large number of different ways to monitor and evaluate knowledge. A tool for measuring a student's achievements is a properly designed test that corresponds not only to the subject of study, but also to its tasks and serves to develop a systematic approach to studying the discipline. Testing in educational institutions is used as a means of objective control of students' knowledge of the curriculum. Systematic monitoring of students' level of knowledge, on the one hand, determines the student's academic performance, and on the other hand, it is an indicator of the effectiveness of teaching methods and organization of the educational process. The inclusion of various forms of test tasks in the learning process motivates students to step up work on mastering educational material and forms a desire to develop their abilities. Comparing the testing performed with the help of paper questionnaires and online testing, it is obvious that online testing is much more effective.\n\nThe computer models of web-based knowledge verification services have been investigated in this paper by using methods of statistical and computer modeling. The research of knowledge control methods has been carried out and it has been shown that the time required to create a test and analyze the results in the perspective system could be minimized by using the modern technologies in the field of web development. The choice of the system architecture and a specific set of technologies depends on the requirement of maximizing speed of the system-user interaction. The analytical component of the system should answer the users’ most popular questions concerning the test results. The results obtained provide the main characteristics for creating a computer model of a web service for testing knowledge.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/13c6690a94ddaa29751314c81f26e5d744322612",
+    "doi": "10.26565/2304-6201-2021-52-02",
+    "bibtex": "",
+    "pdf_url": "https://periodicals.karazin.ua/mia/article/download/21411/19969",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069640"
+  },
+  {
+    "id": "13ecb3555f90f377c560c11e5a91f23f3ab72820",
+    "title": "Formal concept analysis for e-learning",
+    "authors": [
+      "Research Online",
+      "G. Beydoun"
+    ],
+    "year": 2017,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/13ecb3555f90f377c560c11e5a91f23f3ab72820",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069644"
+  },
+  {
+    "id": "152f0cf6bc1696080b09561d7ba6b1437cec33e6",
+    "title": "What a wonderful worldACM student chapters around the globe",
+    "authors": [
+      "V. Giannikas"
+    ],
+    "year": 2011,
+    "venue": "XRDS",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/152f0cf6bc1696080b09561d7ba6b1437cec33e6",
+    "doi": "10.1145/1961678.1961698",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069648"
+  },
+  {
+    "id": "15bc608b17a498465cfb47a56cb8eaef3a5fb020",
+    "title": "Construction of Distributed Web Development Environment using 4-Legged Robot and MSRS",
+    "authors": [
+      "T. Yang",
+      "Yongho Seo"
+    ],
+    "year": 2009,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/15bc608b17a498465cfb47a56cb8eaef3a5fb020",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069651"
+  },
+  {
+    "id": "1781f25da48f49709831e14f99616291fca49619",
+    "title": "Aplicación web para la gestión de memorias y apuntes.",
+    "authors": [
+      "Killian Jiménez Lecroc"
+    ],
+    "year": 2014,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1781f25da48f49709831e14f99616291fca49619",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069655"
+  },
+  {
+    "id": "18333b1e6a189025c61282be770185bcf700bd9a",
+    "title": "MentorMob and the Reinvention of Learning",
+    "authors": [
+      "S. Greenstein",
+      "Josh Polhans",
+      "Micheline Sabatte"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/18333b1e6a189025c61282be770185bcf700bd9a",
+    "doi": "10.1108/case.kellogg.2016.000201",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069659"
+  },
+  {
+    "id": "19c1f078c83020be451fb780e7f90943fdb2e412",
+    "title": "Drafter: A Python Library for Full-Stack Web Development in CS1",
+    "authors": [
+      "Austin Cory Bart",
+      "Nazim Karaca"
+    ],
+    "year": 2025,
+    "venue": "Technical Symposium on Computer Science Education",
+    "abstract": "Web applications are increasingly the main way to create user interfaces, and they are often the most common software beginners have encountered. However, web development relies on concepts like HTML, CSS, JavaScript, and backend technologies, which are challenges beyond the scope of an introductory course. Additionally, many features of modern web frameworks conflict with CS1 principles, such as avoiding global mutable state and promoting test-driven development. Consequently, web development is rarely integrated into CS1 courses, despite its motivational potential. This paper introduces Drafter, a new open-source Python library for CS1, enabling students to develop full-stack web applications using pure functions with minimal boilerplate. Drafter has simple functions to generate HTML, eliminating the need to learn HTML or templating languages. The data model scales with students' mastery of types, from primitives to nested lists, Dataclasses, and dictionaries. Drafter supports unit testing of entire web applications and reinforces CS1 concepts like decomposition and reusability. Websites created with Drafter can be deployed through GitHub Pages, with plotting and image manipulation. Students receive extensive debug information, including unit test scaffolding, program state visualization, and enhanced error messages and tests. This paper discusses the pedagogical features and design decisions behind Drafter, along with instructor reflections on its use. We believe Drafter can significantly enhance student engagement in CS1 courses and reinforce key learning objectives.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/19c1f078c83020be451fb780e7f90943fdb2e412",
+    "doi": "10.1145/3641554.3701874",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069662"
+  },
+  {
+    "id": "1a20fb6a36301ec13b70a33c2c1ae18cdd46a33b",
+    "title": "CRUD On The Web Pedagogical Modules For Web-Based Data Access",
+    "authors": [
+      "Kelly J. Fadel",
+      "David H. Olsen",
+      "K. Hauser"
+    ],
+    "year": 2011,
+    "venue": "Business Information Systems",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1a20fb6a36301ec13b70a33c2c1ae18cdd46a33b",
+    "doi": "10.19030/RBIS.V13I1.4335",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069667"
+  },
+  {
+    "id": "1a665d67143f5627db160f235bc1782fbbe7a1cd",
+    "title": "Research on the construction and application of engineering cost teaching platform based on adaptive learning",
+    "authors": [
+      "Haiyan Wu",
+      "Yongkun Li"
+    ],
+    "year": 2025,
+    "venue": "Journal of Computational Methods in Sciences and Engineering",
+    "abstract": "The “T multi-layer architecture” refers to the three-tier application architecture commonly used in web development, which consists of the presentation layer (client), application logic layer (middle tier), and data access layer (server). This architecture extends the traditional client/server model by introducing a dedicated application server layer to handle business logic, thereby separating user interface functions from data processing. The term “T” metaphorically represents the structural division among these layers, enabling modular management and load balancing. The client-server interaction follows a three-tier model: the client layer handles user interface communication, the application server layer processes business logic, and the data layer manages database operations. This separation allows the application server to share processing loads, addressing the overburden issue in traditional C/S architectures. The middle tier acts as a bridge, ensuring seamless data flow between the client and server. The 30% increase in student engagement was measured via dual methods (1) automated tracking of platform interactions (e.g., number of case studies accessed, quiz attempts, and discussion forum contributions): and (2) a 5-point Likert scale survey administered mid-course and at completion. For the 80% understanding improvement, students completed pre-and post-course concept mapping exercises focused on complex cost topics (e.g., bill of quantities valuation), with evaluators blind-coded to assess map complexity and accuracy. On average, students spend approximately 2 hours per week engaging with course content on the ECTP. A survey of students rated the user interface with a high ease-of-use score of 4.5. Furthermore, 70% of students noted significant improvements in their problem-solving abilities after using the platform. Project cost information management involves complex logic and lengthy processes. An efficient cost information system is essential to manage these workflows and standardize business procedures. The adaptive learning-based ECTP was designed with this goal in mind, integrating fragmented cost data for educational purposes.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1a665d67143f5627db160f235bc1782fbbe7a1cd",
+    "doi": "10.1177/14727978251391335",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069673"
+  },
+  {
+    "id": "1b669e7ea5eb0495bbaf974a36f82c574e356328",
+    "title": "Development of Job Vacancy Information System at Darma Persada University Career Center",
+    "authors": [
+      "Yahya Yahya",
+      "Endang Ayu Susilawati",
+      "Eva Novianti",
+      "Rahmadanti"
+    ],
+    "year": 2025,
+    "venue": "Journal TIFDA (Technology Information and Data Analytic)",
+    "abstract": "Career centers play a vital role in bridging the gap between higher education and the workforce by helping students and alumni access job opportunities and develop relevant skills. At Universitas Darma Persada, the career center faced challenges in disseminating job vacancy information efficiently due to time constraints and limited distribution methods, primarily via Instagram. This study aims to design and develop a web-based job vacancy information system to improve accessibility and communication between job seekers and employers.The uniqueness of this research lies in the development of a role-based job portal system that integrates multiple user roles, namely job seekers (students and alumni), career staff, and employers, into a single digital platform. The objective is to accelerate job vacancy publication, facilitate job applications, and streamline employer access to candidate data.This study adopts the Waterfall methodology, including stages of requirement analysis, system design, implementation, and testing. Data were collected through observation, interviews, and literature review. The final system was developed using Visual Studio Code, PHP, MySQL, and other web development tools.The results show that the system successfully reduces delays in job vacancy announcements, expands reach beyond Instagram, and provides a more structured and interactive recruitment process. Employers can post jobs and review CVs, while job seekers can apply directly and track their application status. The system has proven effective in enhancing the career center’s role in graduate employability support.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1b669e7ea5eb0495bbaf974a36f82c574e356328",
+    "doi": "10.70491/tifda.v2i1.83",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069680"
+  },
+  {
+    "id": "1c4466e2ecb6d55e4ff19a026ae3755cb4245c84",
+    "title": "Object-oriented Design based Comprehensive Experimental Development of Document Object Model",
+    "authors": [
+      "Yanlong Wang",
+      "Jinhua Liu"
+    ],
+    "year": 2022,
+    "venue": "Advances in Engineering Technology Research",
+    "abstract": "JavaScript code using Document Object Model (DOM) can realize the dynamic control of Web pages, which is the important content of the Web development technology course. The application of DOM is very flexible and includes many knowledge points, so it is difficult for students to master. In order to help students to understand each knowledge point and improve their engineering ability to solve practical problems, a DOM comprehensive experiment project similar to blind box is designed and implemented. This experimental project integrates knowledge points such as DOM events, DOM operations, and communication between objects. Practice has proved that running and debugging of the project can help students to understand and master relevant knowledge points.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1c4466e2ecb6d55e4ff19a026ae3755cb4245c84",
+    "doi": "10.56028/aetr.3.1.390",
+    "bibtex": "",
+    "pdf_url": "https://madison-proceedings.com/index.php/aetr/article/download/510/514",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069685"
+  },
+  {
+    "id": "1cbf2c54e93124131df9d22a0f0f531fe9653d74",
+    "title": "THE EFFECTIVENESS OF GUTINMATHE'S IN BLOG-BASED LEARNING WITH A CONTEXTUAL APPROACH ON LINEAR EQUATION SYSTEM",
+    "authors": [
+      "Siti Inganah",
+      "Lilik Mahmulah",
+      "Adi Slamet Kusumawardana"
+    ],
+    "year": 2022,
+    "venue": "Kalamatika: Jurnal Pendidikan Matematika",
+    "abstract": "This study aimed to determine how effective the learning is using Gutinmathe's blog with a contextual approach. This research employed a quantitative approach and ADDIE Web development method, with analysis, design, development, implementation, and evaluation stages. The population in this study were Year 10 students of one of the vocational high School in Pandaan, Indonesia and the samples were Year 10 students majoring in Medical Laboratory Technology from the school. The data was analyzed using the paired-sample t-test conducted by SPSS. Gutinmathe's blog learning media was validated by two media expert lecturers and one teacher. The media validation score was 78.33%, meaning that the blog media is feasible to use. The results of this study indicate differences in learning outcomes before and after using the Gutinmathe blog-based learning media, where the students' post-test answers are better than the pre-test. It shows that using Gutinmathe's blog-based learning media with a contextual approach is effective.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1cbf2c54e93124131df9d22a0f0f531fe9653d74",
+    "doi": "10.22236/kalamatika.vol7no1.2022pp85-98",
+    "bibtex": "",
+    "pdf_url": "http://matematika-uhamka.com/kalamatika/index.php/kmk/article/download/530/137",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069690"
+  },
+  {
+    "id": "1dfec75a5300473a3cb57a4bba64c3c88f33c9f2",
+    "title": "PERANCANGAN SISTEM INFORMASI PENDAFTARAN SISWA BARU PADA SMAS AL-MANAR MEDAN BERBASIS WEB",
+    "authors": [
+      "Salwa Alipia Tambunan",
+      "Putri Natasya Adelia",
+      "Muhammad Rindhu Samora Hutagalung",
+      "Calvin Aditya Harahap",
+      "Andra Swasti Atmaja",
+      "S. Sulindawaty"
+    ],
+    "year": 2024,
+    "venue": "Syntax : Journal of Software Engineering, Computer Science and Information Technology",
+    "abstract": "The rapid advancement of technology has permeated into the field of education. However, SMAS Al-Manar has yet to leverage technology in its student admissions process. The enrollment of new students at SMAS Al-Manar is still conducted manually, leading to issues such as data redundancy, input errors, vulnerability to document damage, lack of data security, and others. This research aims to design a web-based student registration information system at SMAS Al-Manar. The methodology used in this research includes needs analysis, system design, software development, and system testing. This information system is built using the latest technologies in web development, including PHP, HTML, and CSS. The results of the research indicate that the developed information system can expedite the registration process, enhance data accuracy, and facilitate access to information for prospective students and the school administration. It is hoped that the web-based student registration information system at SMAS Al-Manar Medan can improve the operational efficiency of the school and provide a better user experience.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1dfec75a5300473a3cb57a4bba64c3c88f33c9f2",
+    "doi": "10.46576/syntax.v5i1.4529",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069697"
+  },
+  {
+    "id": "1e7bd217e5c5369be1fdeeffde74b8e4468cac41",
+    "title": "Hacks and hackers in the classroom: facilitating communication and collaborative data journalism projects between journalism and web development students",
+    "authors": [
+      "M. Knight"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1e7bd217e5c5369be1fdeeffde74b8e4468cac41",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069704"
+  },
+  {
+    "id": "1ea396e4dcee228b5f3a41212a56ae1981a63741",
+    "title": "Developing an E-Platform for Monitoring Wellbeing in Schools: Involving Young People in Setting the Research Agenda.",
+    "authors": [
+      "C. Grant",
+      "E. Widnall",
+      "Lauren Cross",
+      "E. Simonoff",
+      "J. Downs"
+    ],
+    "year": 2020,
+    "venue": "",
+    "abstract": "\n Background : The use of new technologies and methodologies in young people’s mental health research is needed to allow more frequent and reliable sampling. Mobile applications and e-platforms create exciting potential for the collection of large-scale cohort data, however there are various feasibility and ethical issues to consider. Consultation with young people is needed to inform the research agenda, and ensure these technologies are engaging, useful and safe. This article describes the process of Public and Patient Involvement (PPI) with a sample of young people in London, with the aim of i) informing the development of a mood-monitoring e-platform, and ii) providing feedback and advice for researchers developing web-based technologies in the mental health field. Methods : A total of 26 young people were consulted across four advisory group sessions. All young people were students enrolled at one of the participating London based sixth form colleges, and voluntarily attended a workshop session. Audio recordings of the sessions were analysed using a theory driven thematic analysis framework. Results: Young people were generally receptive to e-health technologies and valued the opportunity to collaborate throughout the development process. The advisory groups identified key considerations for future web-development work to encourage engagement and prolonged use, including, the promotion of trust and transparency, consideration of accessibility, provision of support, production of engaging and functional design, and acknowledgment of specific contextual influences surrounding young people’s wellbeing. Conclusions : Involving young people in the development process of e-health technologies contributes to optimising the successful adoption and prolonged usage of new methodologies. The thematic map outlines can be used to inform researchers interested in developing web-based technologies in the mental health field and will be directly applicable to the development of a mood-monitoring e-platform.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1ea396e4dcee228b5f3a41212a56ae1981a63741",
+    "doi": "10.21203/rs.2.24217/v1",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.21203/rs.2.24217/v1",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069712"
+  },
+  {
+    "id": "1ea7c1ee5020caa84206612d37dbdc87b2e762e6",
+    "title": "Design of probing into network and learning actrivties based on CLT",
+    "authors": [
+      "Zhou Sun-xuan"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1ea7c1ee5020caa84206612d37dbdc87b2e762e6",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069717"
+  },
+  {
+    "id": "1eff52a03954640be0c6cc87dd1a12ac50db924a",
+    "title": "Recent advances in the development of data access system using remote means with raspberry pi & cloud computing",
+    "authors": [
+      "Pratik Kumar Singh",
+      "P.J. Mohammed Shoaib",
+      "1Prakhar Tibrewal",
+      "Naveen",
+      "Padmavathi M",
+      "Dr. T.C.Manjunath"
+    ],
+    "year": 2023,
+    "venue": "International Journal of Engineering Technology and Management Sciences",
+    "abstract": "The cloud storages are becoming expensive these days and can be expected to increase more and more. The cloud storages give certain amount of the storage and then start asking the users to pay for the subscription model. Using Microprocessors and web development, it can offer you a better solution to have a personalised Private cloud storage. A private cloud storage is a storage solution that is hosted on your own network, rather than on a third-party service. This means that your data is stored in a more secure location and you have more control over it. Microprocessors can be used to create a private storage and which will be only accessible to the particular users only. Microprocessors like raspberry pi and the hard drive like SD cards, HDDs are been used to make a private cloud storage. We are installing a NAS server in the raspberry pi and create the website which is used to access the private cloud storage. NAS servers can be secured using a variety of methods, such as encryption and authentication. This helps to protect data from unauthorized access. NAS servers can be secured using a variety of methods, such as encryption and authentication. This helps to protect data from unauthorized access. The work done & presented in this paper is the result of the final year project work that has been done by the eighth sem engineering students of the college and as such there is little novelty in it and the references are being taken from various sources from the internet, the paper is being written by the students to test their writing skills in the starting of their engineering career and also to test the presentation skills during their project presentation.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1eff52a03954640be0c6cc87dd1a12ac50db924a",
+    "doi": "10.46647/ijetms.2023.v07i03.117",
+    "bibtex": "",
+    "pdf_url": "https://ijetms.in/Vol-7-issue-3/Vol-7-Issue-3-117.pdf",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069724"
+  },
+  {
+    "id": "1fffc0f742990dca538b01c44231df1c57cc7f3a",
+    "title": "EMPLOYING ACTION DESIGN RESEARCH FOR DESIGNING COURSE AND LABORATORY TO TEACH WEB MANAGEMENT IN A MIXED CLASSROOM",
+    "authors": [
+      "Safraz Iqbal"
+    ],
+    "year": 2019,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/1fffc0f742990dca538b01c44231df1c57cc7f3a",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069730"
+  },
+  {
+    "id": "216e1950a291864a0876b19511ccf20329881884",
+    "title": "Pelatihan Membangun Website CRUD Dengan Pemrograman PHP Pada Siswa/I SMK Swasta Free Methodist Medan",
+    "authors": [
+      "Fahmi Ruziq",
+      "Subhan Hafiz Nanda Ginting",
+      "M. Rhifky Wayahdi"
+    ],
+    "year": 2024,
+    "venue": "Jurnal Pengabdian Masyarakat Nusantara",
+    "abstract": "Education has become the primary foundation for the young generation in the digital age. Through dedication to society, a positive contribution to the world of education can be realized. Although IT graduates are on the rise, most are not yet in line with industry standards. The development of soft skills has become crucial in producing successful graduates. Web development remains in demand, however, the gap between education and labour market demand needs to be overcome. This paper deals with \"PHP CRUD Website Training for Private SMK Free Methodist Field Students\" to enhance students' knowledge and skills. Participants are invited to understand the concepts of web development with PHP and career potential in the IT industry. This training has a positive impact on improving the knowledge and skills of students in web development as well as giving an overview of the potential career opportunities in the ICT industry.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/216e1950a291864a0876b19511ccf20329881884",
+    "doi": "10.57214/pengabmas.v6i1.476",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069738"
+  },
+  {
+    "id": "221fc3b9db10f7f8e488d2e54688a25a8856a5d3",
+    "title": "Desarrollo de un sistema web utilizando redes bayesianas para enseñanza del idioma inglés en la escuela Zoila Alvarado Jaramillo.",
+    "authors": [
+      "Ramón Campoverde",
+      "Katherine Ivanova"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/221fc3b9db10f7f8e488d2e54688a25a8856a5d3",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069744"
+  },
+  {
+    "id": "2263824807cab825f65e575b394b2031755fd953",
+    "title": "Effective Web and Java Security Education with the SWEET Course Modules/Resources",
+    "authors": [
+      "Lixin Tao",
+      "Li-Chiou Chen"
+    ],
+    "year": 2012,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2263824807cab825f65e575b394b2031755fd953",
+    "doi": "10.1007/978-3-642-25908-1_2",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069750"
+  },
+  {
+    "id": "232e4c9a52be7461617ab073b4a685d7bd0ad414",
+    "title": "Branding and New Product Development: A Case of Glemma",
+    "authors": [
+      "D. Damen",
+      "Miao-Ling Wang",
+      "Tim Wijnhoven"
+    ],
+    "year": 2015,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/232e4c9a52be7461617ab073b4a685d7bd0ad414",
+    "doi": "10.4018/978-1-4666-7393-9.CH008",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069757"
+  },
+  {
+    "id": "255a21fe9bce890570b7483ef45bea9428ea5629",
+    "title": "A Design of Phrase Fill-in-Blank Problem in JavaScript-Based Web-Client Programming Learning Assistant System",
+    "authors": [
+      "Huiyu Qi",
+      "Zhikang Li",
+      "Nobuo Funabiki",
+      "Wen-chung Kao"
+    ],
+    "year": 2024,
+    "venue": "International Conference on Computational Intelligence and Intelligent Systems",
+    "abstract": "JavaScript-based web-client programming including HTML, CSS, and JavaScript is taught to students in introductory web development courses in universities worldwide. To assist self-studies of novice students, we have developed the JavaScript-based web-client programming learning assistant system (JSPLAS). It offers various types of exercise problems with different learning goals, where any answer from a student is automatically marked in the system. In this paper, we present a design of the phrase fill-in-blank problem (PFP) in JSPLAS. A PFP instance provides a source code for web-client programming where several phrases are blanked out, and requests students to fill them in correctly. A phrase consists of one or multiple elements in the code. The correctness of any answer is verified through string matching with the original phrase. In future works, we will generate PFP instances for basic web-client programming concepts and assign them to students for comprehensive evaluations of the proposal. Besides, we will implement the automatic generation program of a new PFP instance to assist teachers.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/255a21fe9bce890570b7483ef45bea9428ea5629",
+    "doi": "10.1145/3708778.3708799",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069764"
+  },
+  {
+    "id": "25ecd8759c86643dc054b9c3cbdb9779c6567914",
+    "title": "RANCANG BANGUN APLIKASI AKADEMIK BERBASIS WEBSITE PADA RUMAH GEMILANG INDONESIA DEPOK",
+    "authors": [
+      "Muhidin Muhidin",
+      "N. Mulyana",
+      "Toni Saidun Ali",
+      "H. Firmansyah",
+      "Shuhd Khaled Hood Basamekha",
+      "Imam Santoso"
+    ],
+    "year": 2024,
+    "venue": "Journal of Mathematics and Technology",
+    "abstract": "Rumah Gemilang Indonesia is an empowerment program unit and training center under the Al-Azhar National Amil Zakat Institute Program directorate. The current collection of academic data is felt to be less effective because it is still done manually. One of the superior features planned is an online report card system that allows academic staff and students to access the academic data needed for their respective needs. The method of collecting data in the preparation of this thesis is the method of observation, interviews and literature study. A web development method developed using the Code Igniter framework whose programming language is PHP based, Code Igniter applies the MVC (Model, View, Controller) concept which makes it easier for developers to design a website. By developing this academic application, it can make it easier for academic staff to manage academic data and student report card scores online, which will be very effective and efficient in terms of time and students can immediately see the results of their report card scores online by accessing This academic application is through a website that is opened using a browser.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/25ecd8759c86643dc054b9c3cbdb9779c6567914",
+    "doi": "10.63893/matech.v3i1.253",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069773"
+  },
+  {
+    "id": "25f3e861ed3b103406b756f8cf0787799694dd1f",
+    "title": "Pengembangan Keterampilan Digital Siswa MAN 2 Jepara Melalui Pelatihan HTML",
+    "authors": [
+      "Ahmad Faidlon",
+      "Muhammad Miftakhul Ulum",
+      "Muhammad Nabil Mas’ud",
+      "Shiva Fauziyah",
+      "Mila Ati Azka"
+    ],
+    "year": 2024,
+    "venue": "MENGABDI : Jurnal Hasil Kegiatan Bersama Masyarakat",
+    "abstract": "This article discusses the implementation of HTML training at MAN 2 Jepara as part of a community service initiative by the UNISNU KKN team in Kelet Village to develop students' digital skills. Through this article, we will explain the training implementation methods, the objectives to be achieved, and the expected benefits. Currently, students from MAN 2 Jepara majoring in informatics have learned how to use computers, especially Microsoft Word and Microsoft Excel. As a major with an informatics background, there is certainly an expectation to learn other things in the field, especially in web development. Therefore, the UNISNU KKN team in Kelet Village took the initiative to conduct basic HTML training. To achieve the expected goals and benefits, the author adopts practical and interactive training methods. The training results show an increase in understanding of the basic concepts of HTML by 43%, interest in the field of web development by 28%, and active participation in question and answer sessions by 50%.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/25f3e861ed3b103406b756f8cf0787799694dd1f",
+    "doi": "10.61132/mengabdi.v2i1.435",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069782"
+  },
+  {
+    "id": "26745f8e32355f006e5695b38dbbbb2f5d589f24",
+    "title": "CAMPUS CONNECT",
+    "authors": [
+      "Sanika Adagane",
+      "Kajal Bagal",
+      "Jeenat Gaiban",
+      "Afnaan Attar",
+      "Pragati Girme"
+    ],
+    "year": 2024,
+    "venue": "INTERANTIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "abstract": "The project named “Campus Connect” is aimed to create a centralized web-based platform that is intended to fill the gap between fresh graduates and target employers. The system will be an online web application that can be accessed by the college student , the company and the college itself with proper login provided. The system can be used as an application for student or the fresher’s to apply for the job. This application is built using modern web development technologies, ensuring the scalability and ease of use. It also aims to reduce efforts with campus placement. The entire recruitment process gets easy for both the students and the recruiters. This campus connect platform enhances the experience of seeking a job for fresher’s. It also postthe opportunities of job and also help for hiringprocess. This system is designed with three user roles: students, college as a mediators, recruiterseach are provided with special login access and functionalities.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/26745f8e32355f006e5695b38dbbbb2f5d589f24",
+    "doi": "10.55041/ijsrem37925",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069790"
+  },
+  {
+    "id": "26e9ea5f115c6d02c4be78ba8d82a31f0140e738",
+    "title": "Energizing Web Development in the Exploring Computer Science Curriculum",
+    "authors": [
+      "Samuel B. Mazzone"
+    ],
+    "year": 2024,
+    "venue": "Technical Symposium on Computer Science Education",
+    "abstract": "The Exploring Computer Science (ECS) program, designed to increase underrepresented groups' participation in computer science (CS), adapted its web development unit in Milwaukee during the COVID-19 pandemic. The new curriculum uses the ECS Web Lab (ECS-WL) platform, which facilitates real-time HTML and CSS compilation, allowing students to create and submit web pages for teacher feedback. Each day in the curriculum, students research specific topics of interest and incorporate those ideas into the websites they develop. This hands-on approach, tailored to students' interests, aims to enhance engagement and learning effectiveness. A comprehensive assessment strategy will analyze data from ECS-WL to gauge the program's impact on inclusivity and engagement in computer science education (CSE). These findings will guide future enhancements, ensuring ECS's commitment to diversifying CSE.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/26e9ea5f115c6d02c4be78ba8d82a31f0140e738",
+    "doi": "10.1145/3626253.3635409",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069794"
+  },
+  {
+    "id": "2719e21294dfecf7f227c458c4d95722c6389bff",
+    "title": "Discussion on the Education of the Most Sought-after Skill in Web Development: Framework Knowledge",
+    "authors": [
+      "Jianhong Sun",
+      "Qun Cai",
+      "Yingjiang Li"
+    ],
+    "year": 2012,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2719e21294dfecf7f227c458c4d95722c6389bff",
+    "doi": "10.1007/978-3-642-28655-1_89",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069798"
+  },
+  {
+    "id": "272c3e778cbbf7a3d787a0383b9b879986b88698",
+    "title": "การพัฒนาบริการสารสนเทศออนไลน์เพื่อการวิจัยในสาขาวิชาพระพุทธ ศาสนา มหาวิทยาลัยมหาจุฬาลงกรณราชวิทยาลัย วิทยาเขตเชียงใหม่",
+    "authors": [
+      "อิศราวดี ทองอินทร์",
+      "ปราณี วงศ์จำรัส",
+      "อังสนา ธงไชย",
+      "ธนพรรณ กุลจันทร์"
+    ],
+    "year": 2010,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/272c3e778cbbf7a3d787a0383b9b879986b88698",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069802"
+  },
+  {
+    "id": "27c955414d173197fb384b871e9b28220f206b3e",
+    "title": "Συνεργατικό εργαλείο δημιουργίας ψηφιακής αφίσας",
+    "authors": [
+      "Μάριος Αγιομαυρίτης"
+    ],
+    "year": 2015,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/27c955414d173197fb384b871e9b28220f206b3e",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069806"
+  },
+  {
+    "id": "2826c47ec9fa399353f2dceb5ead62371685f261",
+    "title": "E LEARNING DATA STRUCTURE APPLICATION WEB -BASED USING PHP AND MYSQL",
+    "authors": [
+      "Hitoshi Mario Naga Mait"
+    ],
+    "year": 2011,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2826c47ec9fa399353f2dceb5ead62371685f261",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069809"
+  },
+  {
+    "id": "28e25271fb10fdff126cbea8f8dd474e2cff0f6a",
+    "title": "Lozinskaya A. M., Yahabipova I. M. COMPARATIVE ANALYSIS OF ON-LINE SERVICES FOR TEACHING SCHOOL STUDENTS WEB PROGRAMMING",
+    "authors": [
+      "Удк",
+      "Лозинская А.М",
+      "Яхабипова И.М",
+      "Сравнительный Анализ",
+      "ON-LINE Сервисов",
+      "Для Обучения",
+      "Школьников WEB-ПРОГРАММИРОВАНИЮ"
+    ],
+    "year": 2018,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/28e25271fb10fdff126cbea8f8dd474e2cff0f6a",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069815"
+  },
+  {
+    "id": "29439bc1376be0900cd415623c41bce600a00e17",
+    "title": "Suitability of Web Development Technology Course in TVET Tertiary Educators’ Perspective",
+    "authors": [
+      "Hairi Alias",
+      "Nuru Mazlia Musa",
+      "Fauziah Basok"
+    ],
+    "year": 2023,
+    "venue": "Asian Journal of Vocational Education and Humanities",
+    "abstract": "This study will cover on how Web Development technology can be adapted in digital education for higher learning environment from a TVET’s computing lecturers’ perspective including the expectation of learning outcomes by teaching this technology. The respondents have been selected from the computing lecturers of polytechnics and community colleges where both institutions are major players in TVET field. The findings and results have been measured through a questionnaire method involving the information of lecturers’ demographics, duration of working, academic qualification, readiness aspects such as technology suitability, delivery ability, skills and knowledge, certified requirement, and supportive infrastructures. This study also covers in aspects of target and learning outcome for the students in terms of knowledge, teamwork, awareness, and skills. The outcome has stated that most of the respondents agreed that the course is suitable in a tertiary education perspective but with the improvement to the related elements like readiness and infrastructure to meet the needs so the course can be implemented at the optimum level.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/29439bc1376be0900cd415623c41bce600a00e17",
+    "doi": "10.53797/ajvah.v4i1.2.2023",
+    "bibtex": "",
+    "pdf_url": "https://journalarsvot.com/index.php/ajvah/article/download/330/275",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069819"
+  },
+  {
+    "id": "297d02c85f043d0406e5a42413967d5a687ee751",
+    "title": "Student Review and Complaint System",
+    "authors": [
+      "Mr. Navin Goyal"
+    ],
+    "year": 2025,
+    "venue": "INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH IN ENGINEERING AND MANAGEMENT",
+    "abstract": "Ensuring effective communication between students and academic administration is essential for a seamless and responsive educational experience. Despite this, many institutions continue to use outdated or informal methods for managing student complaints, leading to inefficiencies, a lack of accountability, and unresolved issues. This research paper introduces the development and implementation of a Student Review and Complaint System, a comprehensive web-based solution aimed at closing the communication gap between students and administrative bodies, particularly Heads of Departments (HODs). The system allows students to easily submit complaints or feedback about campus facilities, faculty behavior, academic issues, or general grievances through an intuitive and user-friendly interface. Students can also attach images or media files to support their submissions, ensuring that complaints are well-documented and verifiable. On the administrative side, HODs and other authorized personnel have access to a secure dashboard to review, track, and respond to complaints promptly.\n\n\n The application is constructed using the MERN stack—MongoDB for database management, Express.js for backend API handling, React.js for a dynamic frontend, and Node.js as the runtime environment. Security and privacy are prioritized through JWT-based authentication, enabling strict role-based access control to differentiate between student and admin functionalities. This paper further explores the system's technical architecture, development workflow, challenges faced during implementation, and the overall benefits of introducing such a digital complaint system in academic institutions. By automating the complaint process and maintaining a structured feedback loop, the system enhances transparency, improves responsiveness, and fosters accountability within educational environments.\n\nKeywords: Student Complaint System, Student Review Portal, MERN Stack, MongoDB, Express.js, React.js, Node.js, JWT Authentication, Role-Based Access Control, Web Development, Media Upload Feature, Academic Feedback, Educational Technology, Campus Issue Resolution, Admin Dashboard, Complaint Tracking System",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/297d02c85f043d0406e5a42413967d5a687ee751",
+    "doi": "10.55041/ijsrem45473",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069823"
+  },
+  {
+    "id": "29ef11ccc2250edb587f90873400f289db8362db",
+    "title": "Design and Implementation of Curriculum Resource Library System Based on Information Technology",
+    "authors": [
+      "Yanmei Dai",
+      "Cuiying Lin",
+      "Yongsheng Xie",
+      "Guorui Qin"
+    ],
+    "year": 2024,
+    "venue": "2024 3rd International Conference on Artificial Intelligence and Computer Information Technology (AICIT)",
+    "abstract": "Local normal colleges mainly specialize in teacher training and assume the important task of training local teachers for basic education or vocational education. It is necessary to build a teacher education curriculum resource library system for use by college educators, students majored in education, and teachers. Based on the analysis of the requirements of user management, resource management and evaluation management of teacher education curriculum resource library system, this study adheres to the principles of responsibility of key leaders, human-centeredness, consistency of authority, system, dynamics, stability, and ease of development and maintenance, and designs the overall structure and database of the teacher education curriculum resource base system. It uses a web interface under the B/S architecture, uses Front Page 2013 for web development and production, and uses SQL Server 2016 for management, the aim is to establish a teacher education curriculum resource library system for college teachers, normal university students and post-service teachers to break the time and space restrictions.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/29ef11ccc2250edb587f90873400f289db8362db",
+    "doi": "10.1109/AICIT62434.2024.10730496",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069827"
+  },
+  {
+    "id": "2a31107bfe5a088ed809377876630debdff07933",
+    "title": "The design and implementation of art-and-science-students school choosing system",
+    "authors": [
+      "X. Ming"
+    ],
+    "year": 2009,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2a31107bfe5a088ed809377876630debdff07933",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069830"
+  },
+  {
+    "id": "2acebebeaa7b225bd379f6d77479eae89e07c505",
+    "title": "Transliteracy : Relationships Between the Use of Different Media",
+    "authors": [
+      "Mary Price"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2acebebeaa7b225bd379f6d77479eae89e07c505",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069834"
+  },
+  {
+    "id": "2b3f525f8b74406d78e420e752e0ebf0961b19f8",
+    "title": "STEM Workforce Pipeline",
+    "authors": [
+      "D. Etter",
+      "Lindsey G. Groark"
+    ],
+    "year": 2013,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2b3f525f8b74406d78e420e752e0ebf0961b19f8",
+    "doi": "10.21236/ada586547",
+    "bibtex": "",
+    "pdf_url": "http://www.dtic.mil/dtic/tr/fulltext/u2/a586547.pdf",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069837"
+  },
+  {
+    "id": "2d289cce9f5a375d2978da4ffb1f7fd6eb8cafdc",
+    "title": "Teaching Testing with Modern Technology Stacks in Undergraduate Software Engineering Courses",
+    "authors": [
+      "Scott P. Chow",
+      "Tanay Komarlu",
+      "Phill Conrad"
+    ],
+    "year": 2021,
+    "venue": "Annual Conference on Innovation and Technology in Computer Science Education",
+    "abstract": "Students' experience with software testing in undergraduate computing courses is often relatively shallow, as compared to the importance of the topic. This experience report describes introducing industrial-strength testing into CMPSC 156, an upper division course in software engineering at UC Santa Barbara. We describe our efforts to modify our software engineering course to introduce rigorous test-coverage requirements into full-stack web development projects, requirements similar to those the authors had experienced in a professional software development setting. We present student feedback on the course and coverage metrics for the projects. We reflect on what about these changes worked (or didn't), and provide suggestions for other instructors that would like to give their students a deeper experience with software testing in their software engineering courses.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2d289cce9f5a375d2978da4ffb1f7fd6eb8cafdc",
+    "doi": "10.1145/3430665.3456352",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.1145/3430665.3456352",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069841"
+  },
+  {
+    "id": "2dd068a1c8da5c27202c3c129e323dc88c417d66",
+    "title": "Utilização do Geoprocessamento para a Melhoria da Locomoção na Universidade",
+    "authors": [
+      "Elton Massahiro Saito Loures",
+      "Erick Eidy Osawa",
+      "Matheus Carnelutt Chafrão",
+      "Thaís Caroline da Silva"
+    ],
+    "year": 2021,
+    "venue": "",
+    "abstract": "ResumoAs Tecnologias da Informacao e Comunicacao estao expandindo e influenciando a vida social, de modo que buscam auxiliar a aprendizagem colaborativa e proporcionar aos individuos a interacao e producao em conjunto, permitindo com que o grupo possa transmitir ao publico informacoes com o intuito de coadjuvar com determinadas necessidades e de facil acesso. Grandes avancos tem ocorrido na aplicacao de ferramentas computacionais de geoprocessamento, possibilitando ao publico analisar e integrar dados de diversos locais com o uso de mapas, permitindo com que o usuario personalize com seus registros e possa compartilhar informacoes, elaborando e divulgando os seus proprios ao publico pela internet. A fim de amenizar situacoes conflituosas, no que diz respeito a busca de determinados locais e fortalecer o conhecimento sobre a Universidade Estadual de Londrina, um site adaptado aos dispositivos moveis foi elaborado, utilizando ferramentas de desenvolvimento Web, com o intuito de unificar os novos meios de comunicacao vinculados com o crescimento tecnologico informacional com a visibilidade e a acessibilidade da Universidade, ao passo que se amplia tambem a integracao entre estudantes e visitantes das mediacoes, buscando orientar transeuntes e toda a comunidade universitaria, que se deslocam por esta regiao na cidade de Londrina. Ademais, o projeto foi desenvolvido se pautando na utilidade publica, a fim de servir como uso comum e inerente ao cotidiano das pessoas, estimulando assim o desenvolvimento de novas propostas no que tange ao bem-estar coletivo. \nPalavras-chave: Conhecimento. Geoprocessamento. Locomocao. Tecnologia. Comunicacao. \nAbstractInformation and communication technologies are expanding and influencing social life, so they seek to assist collaborative learning and provide individuals with interaction and production together, allowing the group to convey information to the public with the purpose of assisting with certain needs and easy access. Great advances have been made in the application of computational geoprocessing tools, allowing the public to analyze and integrate data from several locations with the use of maps, allowing the user to personalize with their records and to share information, elaborating and disseminating their own to the public through Internet. In order to alleviate conflicting situations regarding the search of certain places and to strengthen the knowledge about the State University of Londrina, a website adapted to mobile devices was elaborated, using web development tools, with the aim of unifying the new media communication links with the informational technological growth with the University visibility and accessibility, while also increasing the integration between students and visitors of mediations, seeking to guide passers-by and the entire university community that move through this region in the city of Londrina. In addition, the project was developed based on public utility, in order to serve as a common and inherent use of people's daily life, thus stimulating the development of new proposals regarding collective well-being. \nKeywords: Knowledge. Geoprocessing. Locomotion. Technology. Communication.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2dd068a1c8da5c27202c3c129e323dc88c417d66",
+    "doi": "10.17921/2447-8733.2021V22N1P85-91",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.17921/2447-8733.2021v22n1p85-91",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069846"
+  },
+  {
+    "id": "2e7a74df4bd72436b11d9968c9e5d595afd43cc1",
+    "title": "INTEGRATING A SERVICE LEARNING PROJECT INTO AN ADVANCED WEB DEVELOPMENT COURSE",
+    "authors": [],
+    "year": 2011,
+    "venue": "",
+    "abstract": "Student success is a growing concern in higher education institutions. How can educators create courses that better prepare students for their future careers? The purpose of this paper is to present recommendations that will assist educators in helping students to be successful in college. This paper begins by briefly discussing a service-learning project (SLP). Next, the paper compares the advantages and disadvantages of completing a simulated project against a service-learning project in a web development course from a teacher’s perspective. Additionally, this paper explores the students’ and clients’ perceptions of the advantages and disadvantages of SLPs. This paper also outlines a model for teaching a web development course with the integration of a service-learning project. Finally, the paper concludes with the idea that community service-based projects can benefit all parties involved and should be considered when designing the pedagogy for an advanced web development course. This study, along with others referenced in the paper, finds that service-learning projects provide a framework for structuring an effective course curriculum.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2e7a74df4bd72436b11d9968c9e5d595afd43cc1",
+    "doi": "10.48009/2_iis_2011_22-29",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.48009/2_iis_2011_22-29",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069849"
+  },
+  {
+    "id": "2e8f54184e7af66c2f42876ef8a6e6fdd129dfac",
+    "title": "Development of an Interactive Method for Training It Students on The Topic Of \"Website Optimization\"",
+    "authors": [
+      "Rasulova Tursunoy Paziljanovna"
+    ],
+    "year": 2025,
+    "venue": "European International Journal of Pedagogics",
+    "abstract": "The article presents the development and testing of an interactive teaching method for students on the topic of \"Website Performance Optimization.\" The method is focused on a practice-oriented approach, active student involvement, and the use of professional audit tools. The proposed methodology combines the use of real-life cases, digital simulators, gamification, and independent solution design. The results of implementing the method demonstrate an increase in technical competence and motivation among students to study complex topics in web development.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2e8f54184e7af66c2f42876ef8a6e6fdd129dfac",
+    "doi": "10.55640/eijp-05-08-16",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069859"
+  },
+  {
+    "id": "2f0f46613f6531a03872c89cabec6b93ea61bd0c",
+    "title": "Development and Assessment of E-Learning Software and Instructional Training Devices",
+    "authors": [
+      "Eunice B. Custodio"
+    ],
+    "year": 2018,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2f0f46613f6531a03872c89cabec6b93ea61bd0c",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069863"
+  },
+  {
+    "id": "2f6c644953012f3283dc9d8fc41e33b756d553a8",
+    "title": "Desarrollo de una solución móvil para el control de rendimiento académico y asistencia de alumnos en la Universidad de las Américas",
+    "authors": [
+      "Hernández Altamirano",
+      "Galo Javier"
+    ],
+    "year": 2012,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2f6c644953012f3283dc9d8fc41e33b756d553a8",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069867"
+  },
+  {
+    "id": "2f7a73c66520b6ac72dcc9c773f49c13a1a886ac",
+    "title": "Work-in-Progress: SiLaRR: Installing, Deploying on Internet, and Using a Robotics Laboratory Remote or in the Classroom with a Few Clicks",
+    "authors": [
+      "P. E. G. C. Fernandez",
+      "M. Castro",
+      "E. Sancristóbal",
+      "F. M. Perez"
+    ],
+    "year": 2015,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2f7a73c66520b6ac72dcc9c773f49c13a1a886ac",
+    "doi": "10.18260/p.25107",
+    "bibtex": "",
+    "pdf_url": "https://doi.org/10.18260/p.25107",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069872"
+  },
+  {
+    "id": "2fa25bfc7e601a77aada12bd4be3bc5a99691f65",
+    "title": "Replication Data for: (Using users' physiological reactivity to predict websites' aesthetic experiences)",
+    "authors": [
+      "G. Esposito",
+      "G. Gabrieli"
+    ],
+    "year": 2019,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2fa25bfc7e601a77aada12bd4be3bc5a99691f65",
+    "doi": "10.21979/N9/YCDXNE",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069876"
+  },
+  {
+    "id": "2fe20aea6111a5e1328e4680c553698567ff226c",
+    "title": "The blended teaching practice in the web development fundamentals course",
+    "authors": [
+      "Changli Feng",
+      "Haiyan Wei",
+      "Xueming Bai",
+      "Sai Qiao",
+      "Xiaorong Zhu",
+      "Jing Liu"
+    ],
+    "year": 2023,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/2fe20aea6111a5e1328e4680c553698567ff226c",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069882"
+  },
+  {
+    "id": "3029a21307e116d51465959345c184196fad57c8",
+    "title": "Benefits and Challenges of Using Community-Based Research To Develop an Educational Web Portal",
+    "authors": [
+      "Lara Preiser-Houy",
+      "Carlos J. Navarrete"
+    ],
+    "year": 2010,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/3029a21307e116d51465959345c184196fad57c8",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069885"
+  },
+  {
+    "id": "30a856d39475bcb4a99cae7da549b7fec02abf1d",
+    "title": "Sustainable Ethnomusicology",
+    "authors": [
+      "León F. García Corona"
+    ],
+    "year": 2021,
+    "venue": "",
+    "abstract": "Most ethnomusicological training requires fieldwork and lab techniques in which students gain technical skills related to the acquisition of data related to fieldwork. Although the work we do as ethnomusicologists sits at the forefront of gathering engaging, relevant content related to musical expressions, most ethnomusicologists are ill equipped in delivering their findings to a broader audience through the use of new media and post-production techniques such as video, sound, and image editing, web development, database administration, and network administration, among many others. Although plenty of literature about developing these skills exists as stand-alone instruction, in this essay I present a bird’s-eye view of content production from an ethnomusicological perspective, providing an understanding of not only content production but how intersects with revenue and ethnomusicological goals. I do so by sharing more than twenty years of experience as an IT specialist and consultant and by exploring some examples of content production at Smithsonian Folkways.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/30a856d39475bcb4a99cae7da549b7fec02abf1d",
+    "doi": "10.1093/OSO/9780197526682.003.0009",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069889"
+  },
+  {
+    "id": "30c0ea5dc0ced3e90699e3aed26d19f54b2c39e6",
+    "title": "Understanding the state of university web site accessibility",
+    "authors": [
+      "Stephen Dannelly",
+      "Michael Whitney"
+    ],
+    "year": 2018,
+    "venue": "Journal of Computing Sciences in Colleges (JCSC; Formerly: Journal of Computing in Small Colleges)",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/30c0ea5dc0ced3e90699e3aed26d19f54b2c39e6",
+    "doi": "10.5555/3144687.3144712",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069892"
+  },
+  {
+    "id": "30c63d621f54fbd80aac04c872c4bdb612a31f98",
+    "title": "Study the Application of Project Teach Method in the Web Development on Java",
+    "authors": [
+      "Wang Xiang-zhong"
+    ],
+    "year": 2011,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/30c63d621f54fbd80aac04c872c4bdb612a31f98",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069896"
+  },
+  {
+    "id": "3164b8c0d29817584bcae703cdd6083ff5420752",
+    "title": "Development of Ideological and Political Practice Research and Analysis System Based on Big Data Technology",
+    "authors": [
+      "Y. Bai"
+    ],
+    "year": 2022,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/3164b8c0d29817584bcae703cdd6083ff5420752",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069901"
+  },
+  {
+    "id": "31e43a9e9206fb34bf456d9fb6c25427a075686b",
+    "title": "Using Containers to Speed Up Development, to Run Integration Tests and to Teach About Distributed Systems",
+    "authors": [
+      "Marco Mambelli",
+      "B. Coimbra",
+      "N. Urs",
+      "Ilya Baburashvili"
+    ],
+    "year": 2025,
+    "venue": "EPJ Web of Conferences",
+    "abstract": "GlideinWMS is a workload manager provisioning resources for many experiments, including CMS and DUNE. The software is distributed both as native packages and specialized production containers. Following an approach used in other communities like web development, we built our workspaces, system-like containers to ease development and testing. Developers can change the source tree or check out a different branch and quickly reconfigure the services to see the effect of their changes. In this paper, we will talk about what differentiates workspaces from other containers. We will describe our base system, composed of three containers: a one-node cluster including a compute element and a batch system, a GlideinWMS Factory controlling pilot jobs, and a scheduler and Frontend to submit jobs and provision resources. Additional containers can be used for optional components. This system can easily run on a laptop, and we will share our evaluation of different container runtimes, with an eye for ease of use and performance. Finally, we will talk about our experience as developers and with students. The GlideinWMS workspaces are easily integrated with IDEs like VS Code, simplifying debugging and allowing development and testing of the system even when offline. They simplified the training and onboarding of new team members and summer interns. And they were useful in workshops where students could have first-hand experience with the mechanisms and components that, in production, run millions of jobs.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/31e43a9e9206fb34bf456d9fb6c25427a075686b",
+    "doi": "10.48550/arXiv.2507.21464",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069907"
+  },
+  {
+    "id": "324f0bf49b85cb650459c7caf11db4d9cef1d651",
+    "title": "Empowering Independent Learning in Web Development Using Intelligent Tutoring Systems",
+    "authors": [
+      "Danny Wiselee",
+      "Anglie Yanto",
+      "Laurens Spits Warnars",
+      "H. Warnars",
+      "Fariza Hanis Abdul Razak"
+    ],
+    "year": 2025,
+    "venue": "International Conference on Communications and Information Technology",
+    "abstract": "The increasing demand for flexible and self-paced learning in higher education has underscored the need for intelligent digital tools that support autonomous study, particularly in foundational technical domains such as web development. This study aims to design and implement an Intelligent Tutoring System (ITS) to facilitate independent learning among undergraduate students in basic web development courses. The ITS was developed using the Laravel framework and integrated with a MySQL database, incorporating client-side and serverside programming components to deliver structured instructional content, interactive exercises, and automated feedback. A structured software development methodology, including requirements analysis, system design through use case and class diagrams, and iterative interface prototyping via Figma, guided the development process. The ITS was designed to supplement existing e-learning platforms and is intended to enhance accessibility, self-regulation, and learner engagement, particularly for students needing to review or retake the course material. Preliminary implementation results suggest that the system supports autonomous learning by providing modular course content, instructor-curated assessments, and a user-friendly interface. The platform also includes feedback mechanisms to continuously refine the instructional material based on learner input. The findings indicate that Intelligent Tutoring Systems have the potential to improve student outcomes by fostering independent learning habits and providing scalable instructional support in computer science education. This research contributes to the advancement of personalized e-learning technologies and offers a practical framework for ITS development in resource-constrained academic environments.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/324f0bf49b85cb650459c7caf11db4d9cef1d651",
+    "doi": "10.1109/ICCIT65724.2025.11166728",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069913"
+  },
+  {
+    "id": "33127ce89305b9ca484ee2650f6cebbac2fa326e",
+    "title": "IMPROVING TEACHING USING A GAME ENGINE",
+    "authors": [
+      "Natalija Vugdelija",
+      "N. Kojić",
+      "Nikola Mihajlović"
+    ],
+    "year": 2018,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/33127ce89305b9ca484ee2650f6cebbac2fa326e",
+    "doi": "10.31410/eraz.2018.904",
+    "bibtex": "",
+    "pdf_url": "http://www.eraz.org.rs/uploads/4/7/0/4/47046595/vugdelija_kojić_mihajlović_improving_teaching_using_a_game_engine_pp_904-905.pdf",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069917"
+  },
+  {
+    "id": "339cb0c830add77e35e1a6271c78cf0590c6572f",
+    "title": "Perancangan Backend Sistem Pemilihan KRS (Mata Pelajaran Peminatan) Berbasis Website di SMAK Yos Sudarso Batam",
+    "authors": [
+      "Micheal Micheal",
+      "Fredian Simanjuntak"
+    ],
+    "year": 2023,
+    "venue": "JURNAL PENGABDIAN KEPADA MASYARAKAT",
+    "abstract": "This research aims to develop a web-based Study Plan Card (KRS) System for SMAK Yos Sudarso Batam. Currently, the KRS process still utilizes a digital questionnaire in the form of a Google Form, which is less efficient and accurate. Therefore, the author constructs a web-based system using PHP Laravel, employing the Web Development Life Cycle (WDLC) approach. This web-based KRS system enables students to perform the KRS process online, access class schedules, and view the availability and quotas of subjects. Teachers and school administrators can efficiently manage and monitor the KRS process. This development is expected to provide benefits such as time and resource efficiency, data accuracy, ease of access, and an enhanced user experience in arranging schedules and selecting subjects.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/339cb0c830add77e35e1a6271c78cf0590c6572f",
+    "doi": "10.37253/se.v1i4.8555",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069921"
+  },
+  {
+    "id": "34e8dfea5e5356b24e6fc32fed3d1f90aecc2f76",
+    "title": "MAKING Student WEBSITE OF SMA N 8 BOGOR USING MACROMEDIA DREAMWEAVER 8, PHP AND MYSQL",
+    "authors": [
+      "Nur Andika Rachman"
+    ],
+    "year": 2011,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/34e8dfea5e5356b24e6fc32fed3d1f90aecc2f76",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069924"
+  },
+  {
+    "id": "35e81a03c95bf15312f5acd8773e13f6418a9391",
+    "title": "Section 1: Web Development",
+    "authors": [
+      "M. Méndez"
+    ],
+    "year": 2014,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/35e81a03c95bf15312f5acd8773e13f6418a9391",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069928"
+  },
+  {
+    "id": "35ec569da831f3daf198661bdf4e42cc9c65caa3",
+    "title": "Stop downloading. Start uploading. Web development takes students from technology consumer to creator",
+    "authors": [
+      "Katie Bell"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/35ec569da831f3daf198661bdf4e42cc9c65caa3",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069932"
+  },
+  {
+    "id": "35f641156622d323bdc803854c95def8014d637c",
+    "title": "Enhanced Discovering Computers ©2017, Essentials",
+    "authors": [
+      "Misty E. Vermaat",
+      "Susan L. Sebok",
+      "S. Freund",
+      "M. Frydenberg",
+      "Jennifer T. Campbell"
+    ],
+    "year": 2016,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/35f641156622d323bdc803854c95def8014d637c",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069936"
+  },
+  {
+    "id": "36932bd3ea4098ca2552eaf5123a0cadf9a020ce",
+    "title": "Training the Trainer Initiatives to Promote Computing amongst Widening Access Participants: The Law of Multiplication in Action",
+    "authors": [
+      "R. Bond"
+    ],
+    "year": 2014,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/36932bd3ea4098ca2552eaf5123a0cadf9a020ce",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069940"
+  },
+  {
+    "id": "36d00dd8f592cc9106b2c20e1eb52051a83c17de",
+    "title": "Creative Labs in a CS1 Course: Self-directed Labs Enhance Inclusivity in Computer Science Learning",
+    "authors": [
+      "Melinda Mcdaniel"
+    ],
+    "year": 2024,
+    "venue": "Technical Symposium on Computer Science Education",
+    "abstract": "Most CS1 classes are designed to teach programming and computational thinking using a specific programming language such as Python or Java. This type of in-depth study leaves little room for creative exploration by students. In particular, at large colleges and universities, the programming assignments are usually autograded to keep up with expanding enrollment. This lightning talk will introduce the idea that simply adding three creative labs that do not use the actual course material, but instead expose students to other computing concepts, can give the students who are struggling a chance to catch up, while also offering them a much-needed breather doing something in computing that is individually directed and creative. Over the last few years, my Teaching Assistants (TAs) and I have developed three simple web development labs as assignments for our large CS1 classes. These three labs are usually given around each of the exam weeks and provide a much-needed break for the students from the regular class material that continues to build upon prior learning. Many students report that the labs were their favorite part of the course because they were creative and self-directed. This lightning talk aims to gather feedback on this concept and assess its potential for integration into advanced CS courses. I'm also keen to hear suggestions for alternative labs in a CS1 class that would both introduce students to further CS principles and allow them to showcase their creativity.",
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/36d00dd8f592cc9106b2c20e1eb52051a83c17de",
+    "doi": "10.1145/3626253.3635342",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069943"
+  },
+  {
+    "id": "36f8c6d10222cd780c56c4000fc942ec96a497b5",
+    "title": "Hybrid Teaching Research Based on Project Driven",
+    "authors": [
+      "Taizhi Lv",
+      "Jun Zhang",
+      "Yong Chen"
+    ],
+    "year": 2019,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/36f8c6d10222cd780c56c4000fc942ec96a497b5",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069947"
+  },
+  {
+    "id": "370c76d32cc1f94f8efdcbdd681ff0ac41c67384",
+    "title": "Design and Implementation of the Student Homework Management Systerm of Vocational College",
+    "authors": [
+      "Yu Guo-hong"
+    ],
+    "year": 2010,
+    "venue": "",
+    "abstract": null,
+    "citations": 0,
+    "url": "https://www.semanticscholar.org/paper/370c76d32cc1f94f8efdcbdd681ff0ac41c67384",
+    "doi": "",
+    "bibtex": "",
+    "pdf_url": "",
+    "pdf_downloaded": false,
+    "pdf_path": "",
+    "extracted_at": "2025-11-16T22:49:32.069951"
+  }
+]
