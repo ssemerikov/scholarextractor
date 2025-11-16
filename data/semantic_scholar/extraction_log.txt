@@ -1,0 +1,214 @@
+2025-11-16 22:46:46,099 - __main__ - INFO - ============================================================
+2025-11-16 22:46:46,099 - __main__ - INFO - Starting Semantic Scholar extraction
+2025-11-16 22:46:46,099 - __main__ - INFO - Target: 64 papers from 2007-2025
+2025-11-16 22:46:46,100 - __main__ - INFO - Starting data collection
+2025-11-16 22:46:46,100 - src.semantic_scholar_api - WARNING - No API key provided. Rate limited to 1 request/second. Get a free API key at https://www.semanticscholar.org/product/api
+2025-11-16 22:46:46,100 - __main__ - INFO - Executing Query 1/4: student "web design"
+2025-11-16 22:46:46,100 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web design"
+2025-11-16 22:46:46,100 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:46:47,272 - src.semantic_scholar_api - INFO - Retrieved 861/100 papers
+2025-11-16 22:46:47,272 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:46:47,273 - __main__ - INFO - Query 1 returned 100 papers
+2025-11-16 22:46:47,276 - __main__ - INFO - Executing Query 2/4: student "web programming"
+2025-11-16 22:46:47,276 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web programming"
+2025-11-16 22:46:47,276 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:46:48,061 - src.semantic_scholar_api - INFO - Retrieved 480/100 papers
+2025-11-16 22:46:48,062 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:46:48,062 - __main__ - INFO - Query 2 returned 100 papers
+2025-11-16 22:46:48,066 - __main__ - INFO - Executing Query 3/4: student "web development"
+2025-11-16 22:46:48,066 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web development"
+2025-11-16 22:46:48,066 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:46:49,317 - src.semantic_scholar_api - INFO - Retrieved 738/100 papers
+2025-11-16 22:46:49,318 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:46:49,319 - __main__ - INFO - Query 3 returned 100 papers
+2025-11-16 22:46:49,322 - __main__ - INFO - Executing Query 4/4: student HTML learning OR education
+2025-11-16 22:46:49,322 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student HTML learning OR education
+2025-11-16 22:46:49,322 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:46:50,178 - src.semantic_scholar_api - INFO - Retrieved 443/100 papers
+2025-11-16 22:46:50,178 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:46:50,178 - __main__ - INFO - Query 4 returned 100 papers
+2025-11-16 22:46:50,195 - __main__ - INFO - Data collection complete. Total papers: 400
+2025-11-16 22:46:50,195 - __main__ - INFO - Starting deduplication
+2025-11-16 22:46:50,198 - __main__ - INFO - Deduplication complete: 400 → 384
+2025-11-16 22:46:50,198 - __main__ - INFO - Filtering by title relevance (threshold: 0.8)
+2025-11-16 22:46:50,201 - __main__ - INFO - Title filtering complete: 384 → 69
+2025-11-16 22:46:50,201 - __main__ - INFO - Ranking papers by composite score
+2025-11-16 22:46:50,202 - __main__ - INFO - Ranking complete. Top score: 40.0
+2025-11-16 22:46:50,202 - __main__ - INFO - Selecting top 64 papers
+2025-11-16 22:46:50,202 - __main__ - INFO - Selection complete: 64 papers
+2025-11-16 22:46:50,202 - __main__ - INFO - Starting PDF downloads
+2025-11-16 22:46:50,202 - __main__ - ERROR - Extraction failed: Storage.__init__() got an unexpected keyword argument 'data_dir'
+Traceback (most recent call last):
+  File "/home/user/scholarextractor/src/extract_semantic_scholar.py", line 660, in main
+    download_pdfs(final_papers)
+  File "/home/user/scholarextractor/src/extract_semantic_scholar.py", line 398, in download_pdfs
+    storage = Storage(data_dir=str(OUTPUT_DIR))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Storage.__init__() got an unexpected keyword argument 'data_dir'
+2025-11-16 22:47:46,646 - __main__ - INFO - ============================================================
+2025-11-16 22:47:46,646 - __main__ - INFO - Starting Semantic Scholar extraction
+2025-11-16 22:47:46,646 - __main__ - INFO - Target: 64 papers from 2007-2025
+2025-11-16 22:47:46,646 - __main__ - INFO - Starting data collection
+2025-11-16 22:47:46,646 - src.semantic_scholar_api - WARNING - No API key provided. Rate limited to 1 request/second. Get a free API key at https://www.semanticscholar.org/product/api
+2025-11-16 22:47:46,646 - __main__ - INFO - Executing Query 1/4: student "web design"
+2025-11-16 22:47:46,646 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web design"
+2025-11-16 22:47:46,646 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:47:48,019 - src.semantic_scholar_api - INFO - Retrieved 861/100 papers
+2025-11-16 22:47:48,019 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:47:48,020 - __main__ - INFO - Query 1 returned 100 papers
+2025-11-16 22:47:48,023 - __main__ - INFO - Executing Query 2/4: student "web programming"
+2025-11-16 22:47:48,023 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web programming"
+2025-11-16 22:47:48,023 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:47:48,679 - src.semantic_scholar_api - INFO - Retrieved 480/100 papers
+2025-11-16 22:47:48,679 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:47:48,680 - __main__ - INFO - Query 2 returned 100 papers
+2025-11-16 22:47:48,683 - __main__ - INFO - Executing Query 3/4: student "web development"
+2025-11-16 22:47:48,683 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web development"
+2025-11-16 22:47:48,683 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:47:49,935 - src.semantic_scholar_api - INFO - Retrieved 738/100 papers
+2025-11-16 22:47:49,935 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:47:49,937 - __main__ - INFO - Query 3 returned 100 papers
+2025-11-16 22:47:49,939 - __main__ - INFO - Executing Query 4/4: student HTML learning OR education
+2025-11-16 22:47:49,940 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student HTML learning OR education
+2025-11-16 22:47:49,940 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:47:51,004 - src.semantic_scholar_api - INFO - Retrieved 443/100 papers
+2025-11-16 22:47:51,004 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:47:51,005 - __main__ - INFO - Query 4 returned 100 papers
+2025-11-16 22:47:51,025 - __main__ - INFO - Data collection complete. Total papers: 400
+2025-11-16 22:47:51,026 - __main__ - INFO - Starting deduplication
+2025-11-16 22:47:51,029 - __main__ - INFO - Deduplication complete: 400 → 384
+2025-11-16 22:47:51,029 - __main__ - INFO - Filtering by title relevance (threshold: 0.8)
+2025-11-16 22:47:51,033 - __main__ - INFO - Title filtering complete: 384 → 69
+2025-11-16 22:47:51,033 - __main__ - INFO - Ranking papers by composite score
+2025-11-16 22:47:51,034 - __main__ - INFO - Ranking complete. Top score: 40.0
+2025-11-16 22:47:51,034 - __main__ - INFO - Selecting top 64 papers
+2025-11-16 22:47:51,034 - __main__ - INFO - Selection complete: 64 papers
+2025-11-16 22:47:51,034 - __main__ - INFO - Starting PDF downloads
+2025-11-16 22:47:51,036 - src.downloader - INFO - Starting PDF download for 10 papers
+2025-11-16 22:47:51,049 - src.downloader - INFO - Downloading: A Study on the Current Learning Situation and Enha...
+2025-11-16 22:47:51,049 - src.client - INFO - Downloading https://doi.org/10.22158/wjer.v12n1p72
+2025-11-16 22:47:52,588 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Kang_2025_A_Study_on_the_Current_Learning_Situation_and_Enha.pdf
+2025-11-16 22:47:52,589 - src.downloader - WARNING - File does not have PDF magic bytes
+2025-11-16 22:47:52,589 - src.downloader - WARNING - Downloaded file is not a valid PDF: Kang_2025_A_Study_on_the_Current_Learning_Situation_and_Enha.pdf
+2025-11-16 22:47:52,590 - src.downloader - INFO - Downloading: Leveraging Human-in-the-Loop Engagement Through AI...
+2025-11-16 22:47:59,379 - src.client - INFO - Downloading https://digitalcommons.lindenwood.edu/cgi/viewcontent.cgi?article=1016&context=ijedie
+2025-11-16 22:48:01,189 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Lively_2024_Leveraging_Human-in-the-Loop_Engagement_Through_AI.pdf
+2025-11-16 22:48:01,190 - src.downloader - INFO - Successfully downloaded: Lively_2024_Leveraging_Human-in-the-Loop_Engagement_Through_AI.pdf
+2025-11-16 22:48:01,190 - src.downloader - INFO - Downloading: Development of Learning Using Flipped Classroom Mo...
+2025-11-16 22:48:07,669 - src.client - INFO - Downloading https://www.ijonest.net/index.php/ijonest/article/download/130/pdf
+2025-11-16 22:48:10,486 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Rifaah_2023_Development_of_Learning_Using_Flipped_Classroom_Mo.pdf
+2025-11-16 22:48:10,487 - src.downloader - INFO - Successfully downloaded: Rifaah_2023_Development_of_Learning_Using_Flipped_Classroom_Mo.pdf
+2025-11-16 22:48:10,488 - src.downloader - INFO - Downloading: DEVELOPMENT OF WEB PROGRAMMING LEARNING MEDIA USIN...
+2025-11-16 22:48:16,121 - src.client - INFO - Downloading https://doi.org/10.26858/jnp.v11i2.62852
+2025-11-16 22:48:17,253 - src.client - ERROR - Download failed for https://doi.org/10.26858/jnp.v11i2.62852: 403 Client Error: Forbidden for url: https://ojs.unm.ac.id/nalar/article/view/62852
+2025-11-16 22:48:17,255 - src.downloader - INFO - Downloading: Suitability of Web Development Technology Course i...
+2025-11-16 22:48:24,434 - src.client - INFO - Downloading https://journalarsvot.com/index.php/ajvah/article/download/330/275
+2025-11-16 22:48:27,256 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Alias_2023_Suitability_of_Web_Development_Technology_Course_i.pdf
+2025-11-16 22:48:27,257 - src.downloader - INFO - Successfully downloaded: Alias_2023_Suitability_of_Web_Development_Technology_Course_i.pdf
+2025-11-16 22:48:27,257 - src.downloader - INFO - Downloading: Design and Build a Web-Based E-Learning Applicatio...
+2025-11-16 22:48:32,722 - src.client - INFO - Downloading https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965
+2025-11-16 22:48:33,796 - src.client - ERROR - Download failed for https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965: 404 Client Error: Not Found for url: https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965
+2025-11-16 22:48:33,798 - src.downloader - INFO - Downloading: The Influence of Learning Coding Interest on Learn...
+2025-11-16 22:48:40,771 - src.client - INFO - Downloading http://eudl.eu/pdf/10.4108/eai.29-6-2019.2290445
+2025-11-16 22:48:42,627 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Nafidah_2020_The_Influence_of_Learning_Coding_Interest_on_Learn.pdf
+2025-11-16 22:48:42,628 - src.downloader - INFO - Successfully downloaded: Nafidah_2020_The_Influence_of_Learning_Coding_Interest_on_Learn.pdf
+2025-11-16 22:48:42,628 - src.downloader - INFO - Downloading: Collaborative Learning: Design and Reflections in ...
+2025-11-16 22:48:49,190 - src.client - INFO - Downloading http://www.journaleet.org/index.php/jeet/article/download/85667/65763
+2025-11-16 22:48:50,255 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Umadevi_2016_Collaborative_Learning_Design_and_Reflections_in.pdf
+2025-11-16 22:48:50,255 - src.downloader - WARNING - File does not have PDF magic bytes
+2025-11-16 22:48:50,255 - src.downloader - WARNING - Downloaded file is not a valid PDF: Umadevi_2016_Collaborative_Learning_Design_and_Reflections_in.pdf
+2025-11-16 22:48:50,257 - src.downloader - INFO - Downloading: Reform of the web design and construction teaching...
+2025-11-16 22:48:57,285 - src.client - INFO - Downloading https://doi.org/10.2991/icetms.2013.153
+2025-11-16 22:48:58,654 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Wang_2012_Reform_of_the_web_design_and_construction_teaching.pdf
+2025-11-16 22:48:58,654 - src.downloader - WARNING - File does not have PDF magic bytes
+2025-11-16 22:48:58,654 - src.downloader - WARNING - Downloaded file is not a valid PDF: Wang_2012_Reform_of_the_web_design_and_construction_teaching.pdf
+2025-11-16 22:48:58,655 - src.downloader - INFO - Downloading: INTEGRATING A SERVICE LEARNING PROJECT INTO AN ADV...
+2025-11-16 22:49:05,506 - src.client - INFO - Downloading https://doi.org/10.48009/2_iis_2011_22-29
+2025-11-16 22:49:06,757 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Unknown_2011_INTEGRATING_A_SERVICE_LEARNING_PROJECT_INTO_AN_ADV.pdf
+2025-11-16 22:49:06,758 - src.downloader - INFO - Successfully downloaded: Unknown_2011_INTEGRATING_A_SERVICE_LEARNING_PROJECT_INTO_AN_ADV.pdf
+2025-11-16 22:49:06,761 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.json
+2025-11-16 22:49:06,763 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.json
+2025-11-16 22:49:06,770 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.csv
+2025-11-16 22:49:06,771 - src.downloader - INFO - Download completed: 5 succeeded, 5 failed, 0 skipped
+2025-11-16 22:49:06,771 - __main__ - ERROR - Extraction failed: type object 'Config' has no attribute 'PDF_DIR'
+Traceback (most recent call last):
+  File "/home/user/scholarextractor/src/extract_semantic_scholar.py", line 734, in main
+    download_pdfs(final_papers)
+  File "/home/user/scholarextractor/src/extract_semantic_scholar.py", line 439, in download_pdfs
+    source = Path(Config.PDF_DIR) / filename
+                  ^^^^^^^^^^^^^^
+AttributeError: type object 'Config' has no attribute 'PDF_DIR'
+2025-11-16 22:49:28,781 - __main__ - INFO - ============================================================
+2025-11-16 22:49:28,782 - __main__ - INFO - Starting Semantic Scholar extraction
+2025-11-16 22:49:28,782 - __main__ - INFO - Target: 64 papers from 2007-2025
+2025-11-16 22:49:28,782 - __main__ - INFO - Starting data collection
+2025-11-16 22:49:28,782 - src.semantic_scholar_api - WARNING - No API key provided. Rate limited to 1 request/second. Get a free API key at https://www.semanticscholar.org/product/api
+2025-11-16 22:49:28,782 - __main__ - INFO - Executing Query 1/4: student "web design"
+2025-11-16 22:49:28,782 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web design"
+2025-11-16 22:49:28,783 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:49:30,129 - src.semantic_scholar_api - INFO - Retrieved 861/100 papers
+2025-11-16 22:49:30,130 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:49:30,131 - __main__ - INFO - Query 1 returned 100 papers
+2025-11-16 22:49:30,134 - __main__ - INFO - Executing Query 2/4: student "web programming"
+2025-11-16 22:49:30,134 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web programming"
+2025-11-16 22:49:30,134 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:49:31,031 - src.semantic_scholar_api - INFO - Retrieved 480/100 papers
+2025-11-16 22:49:31,032 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:49:31,033 - __main__ - INFO - Query 2 returned 100 papers
+2025-11-16 22:49:31,036 - __main__ - INFO - Executing Query 3/4: student "web development"
+2025-11-16 22:49:31,037 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student "web development"
+2025-11-16 22:49:31,037 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:49:32,072 - src.semantic_scholar_api - INFO - Retrieved 738/100 papers
+2025-11-16 22:49:32,073 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:49:32,073 - __main__ - INFO - Query 3 returned 100 papers
+2025-11-16 22:49:32,077 - __main__ - INFO - Executing Query 4/4: student HTML learning OR education
+2025-11-16 22:49:32,077 - src.semantic_scholar_api - INFO - Searching Semantic Scholar: student HTML learning OR education
+2025-11-16 22:49:32,077 - src.semantic_scholar_api - INFO - Filters - Years: 2007-2025, Min citations: 0, Max results: 100
+2025-11-16 22:49:32,977 - src.semantic_scholar_api - INFO - Retrieved 443/100 papers
+2025-11-16 22:49:32,978 - src.semantic_scholar_api - INFO - Search complete. Retrieved 100 papers
+2025-11-16 22:49:32,979 - __main__ - INFO - Query 4 returned 100 papers
+2025-11-16 22:49:32,996 - __main__ - INFO - Data collection complete. Total papers: 400
+2025-11-16 22:49:32,996 - __main__ - INFO - Starting deduplication
+2025-11-16 22:49:32,998 - __main__ - INFO - Deduplication complete: 400 → 384
+2025-11-16 22:49:32,998 - __main__ - INFO - Filtering by title relevance (threshold: 0.8)
+2025-11-16 22:49:33,002 - __main__ - INFO - Title filtering complete: 384 → 69
+2025-11-16 22:49:33,002 - __main__ - INFO - Ranking papers by composite score
+2025-11-16 22:49:33,002 - __main__ - INFO - Ranking complete. Top score: 40.0
+2025-11-16 22:49:33,003 - __main__ - INFO - Selecting top 64 papers
+2025-11-16 22:49:33,003 - __main__ - INFO - Selection complete: 64 papers
+2025-11-16 22:49:33,003 - __main__ - INFO - Starting PDF downloads
+2025-11-16 22:49:33,004 - src.downloader - INFO - Starting PDF download for 10 papers
+2025-11-16 22:49:33,016 - src.downloader - INFO - Downloading: A Study on the Current Learning Situation and Enha...
+2025-11-16 22:49:33,016 - src.client - INFO - Downloading https://doi.org/10.22158/wjer.v12n1p72
+2025-11-16 22:49:45,454 - src.client - ERROR - Download failed for https://doi.org/10.22158/wjer.v12n1p72: HTTPSConnectionPool(host='doi.org', port=443): Max retries exceeded with url: /10.22158/wjer.v12n1p72 (Caused by ResponseError('too many 503 error responses'))
+2025-11-16 22:49:45,455 - src.downloader - INFO - PDF already exists: Lively_2024_Leveraging_Human-in-the-Loop_Engagement_Through_AI.pdf
+2025-11-16 22:49:45,456 - src.downloader - INFO - PDF already exists: Rifaah_2023_Development_of_Learning_Using_Flipped_Classroom_Mo.pdf
+2025-11-16 22:49:45,456 - src.downloader - INFO - Downloading: DEVELOPMENT OF WEB PROGRAMMING LEARNING MEDIA USIN...
+2025-11-16 22:49:45,456 - src.client - INFO - Downloading https://doi.org/10.26858/jnp.v11i2.62852
+2025-11-16 22:49:57,770 - src.client - ERROR - Download failed for https://doi.org/10.26858/jnp.v11i2.62852: HTTPSConnectionPool(host='doi.org', port=443): Max retries exceeded with url: /10.26858/jnp.v11i2.62852 (Caused by ResponseError('too many 503 error responses'))
+2025-11-16 22:49:57,771 - src.downloader - INFO - PDF already exists: Alias_2023_Suitability_of_Web_Development_Technology_Course_i.pdf
+2025-11-16 22:49:57,772 - src.downloader - INFO - Downloading: Design and Build a Web-Based E-Learning Applicatio...
+2025-11-16 22:49:57,772 - src.client - INFO - Downloading https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965
+2025-11-16 22:49:59,546 - src.client - ERROR - Download failed for https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965: 404 Client Error: Not Found for url: https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965
+2025-11-16 22:49:59,548 - src.downloader - INFO - PDF already exists: Nafidah_2020_The_Influence_of_Learning_Coding_Interest_on_Learn.pdf
+2025-11-16 22:49:59,549 - src.downloader - INFO - Downloading: Collaborative Learning: Design and Reflections in ...
+2025-11-16 22:50:05,811 - src.client - INFO - Downloading http://www.journaleet.org/index.php/jeet/article/download/85667/65763
+2025-11-16 22:50:06,586 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Umadevi_2016_Collaborative_Learning_Design_and_Reflections_in.pdf
+2025-11-16 22:50:06,587 - src.downloader - WARNING - File does not have PDF magic bytes
+2025-11-16 22:50:06,587 - src.downloader - WARNING - Downloaded file is not a valid PDF: Umadevi_2016_Collaborative_Learning_Design_and_Reflections_in.pdf
+2025-11-16 22:50:06,587 - src.downloader - INFO - Downloading: Reform of the web design and construction teaching...
+2025-11-16 22:50:14,147 - src.client - INFO - Downloading https://doi.org/10.2991/icetms.2013.153
+2025-11-16 22:50:14,722 - src.client - INFO - Downloaded to /home/user/scholarextractor/data/papers/Wang_2012_Reform_of_the_web_design_and_construction_teaching.pdf
+2025-11-16 22:50:14,722 - src.downloader - WARNING - File does not have PDF magic bytes
+2025-11-16 22:50:14,722 - src.downloader - WARNING - Downloaded file is not a valid PDF: Wang_2012_Reform_of_the_web_design_and_construction_teaching.pdf
+2025-11-16 22:50:14,723 - src.downloader - INFO - PDF already exists: Unknown_2011_INTEGRATING_A_SERVICE_LEARNING_PROJECT_INTO_AN_ADV.pdf
+2025-11-16 22:50:14,726 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.json
+2025-11-16 22:50:14,728 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.json
+2025-11-16 22:50:14,735 - src.storage - INFO - Saved 64 papers to /home/user/scholarextractor/data/metadata/metadata.csv
+2025-11-16 22:50:14,735 - src.downloader - INFO - Download completed: 5 succeeded, 5 failed, 0 skipped
+2025-11-16 22:50:14,747 - __main__ - INFO - PDF download complete. Success: 5/10
+2025-11-16 22:50:14,750 - __main__ - INFO - Saving results
+2025-11-16 22:50:14,755 - __main__ - INFO - Results saved successfully
+2025-11-16 22:50:14,755 - __main__ - INFO - Running validation checks
+2025-11-16 22:50:14,756 - __main__ - WARNING - Validation complete: 5/7 checks passed
+2025-11-16 22:50:14,756 - __main__ - INFO - Extraction complete! 64 papers extracted.

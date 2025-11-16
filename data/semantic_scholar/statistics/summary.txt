@@ -1,0 +1,74 @@
+============================================================
+SEMANTIC SCHOLAR EXTRACTION - STATISTICS REPORT
+============================================================
+
+Extraction Date: 2025-11-16 22:50:14
+Total Papers: 64
+
+YEAR DISTRIBUTION
+----------------------------------------
+2010: 3 papers
+2011: 10 papers
+2012: 8 papers
+2013: 7 papers
+2015: 3 papers
+2016: 3 papers
+2017: 1 papers
+2018: 2 papers
+2020: 3 papers
+2021: 1 papers
+2023: 8 papers
+2024: 6 papers
+2025: 9 papers
+
+TOP 10 VENUES
+----------------------------------------
+ 1x World Journal of Educational Research
+ 1x International Journal of Emerging and Disruptive Innovation in Education : VISIONARIUM
+ 1x International Journal of Engineering Science and Technology
+ 1x IEEE Global Engineering Education Conference
+ 1x Jurnal nalar pendidikan
+ 1x Asian Journal of Vocational Education and Humanities
+ 1x International Journal of Integrative Sciences
+ 1x International journal of multidisciplinary research and analysis
+ 1x Journal of Education Technology and Information System
+ 1x MERPATI
+
+Total unique venues: 23
+
+PDF AVAILABILITY
+----------------------------------------
+Papers with PDF: 10/64 (15.6%)
+
+TOP 10 MOST CITED PAPERS
+----------------------------------------
+1. A Study on the Current Learning Situation and Enhancement Strategies of Web Design Courses
+   Citations: 0 | Year: 2025
+
+2. Leveraging Human-in-the-Loop Engagement Through AI in Web Design Education: A Case Study on Adapting to Dynamic Client Requirements
+   Citations: 0 | Year: 2024
+
+3. Development of Learning Using Flipped Classroom Models in Basic Web Programming Subjects at SMK Al Hafidz Leuwiliang
+   Citations: 0 | Year: 2023
+
+4. Learning Web Programming: Identifying Complex Topics from Student Discussion Forums and Lecture Slides
+   Citations: 0 | Year: 2023
+
+5. DEVELOPMENT OF WEB PROGRAMMING LEARNING MEDIA USING LARAVEL BASED ON PROJECT BASED LEARNING MODEL IN THE DEPARTMENT OF INFORMATICS AND COMPUTER ENGINEERING FT UNM
+   Citations: 0 | Year: 2023
+
+6. Suitability of Web Development Technology Course in TVET Tertiary Educators’ Perspective
+   Citations: 0 | Year: 2023
+
+7. Design and Build a Web-Based E-Learning Application System at Paramarta Vocational High School
+   Citations: 0 | Year: 2023
+
+8. The Influence of Learning Coding Interest on Learning Outcomes of Web Programming and Mobile Devices Subjects
+   Citations: 0 | Year: 2020
+
+9. Collaborative Learning: Design and Reflections in a Web Programming Course
+   Citations: 0 | Year: 2016
+
+10. Development of Android-Based Learning Media on Web Programming Subjects at SMK Negeri 1 Ranah Ampek Hulu Tapan
+   Citations: 0 | Year: 2025
+

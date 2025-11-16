@@ -1,1 +1,27 @@
-{}
+{
+  "2d2505c2fe60e6a8bb254d864af5d726458e268f": {
+    "status": "failed",
+    "error": "Download failed",
+    "url": "https://doi.org/10.22158/wjer.v12n1p72"
+  },
+  "2f78d92599fb60d7d71d13643e23bd12387b5790": {
+    "status": "failed",
+    "error": "Download failed",
+    "url": "https://doi.org/10.26858/jnp.v11i2.62852"
+  },
+  "2a26e7979c382131a02ddae4b88e12bade9ea440": {
+    "status": "failed",
+    "error": "Download failed",
+    "url": "https://journal.formosapublisher.org/index.php/ijis/article/download/4862/4965"
+  },
+  "07ca2e308c77a159cfa83c0a661445302e1e10a0": {
+    "status": "invalid",
+    "error": "Not a valid PDF",
+    "url": "http://www.journaleet.org/index.php/jeet/article/download/85667/65763"
+  },
+  "06f9d750bc1801082723eb3e8d5ad5f9bb4d3b35": {
+    "status": "invalid",
+    "error": "Not a valid PDF",
+    "url": "https://doi.org/10.2991/icetms.2013.153"
+  }
+}
