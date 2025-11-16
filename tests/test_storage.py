@@ -5,6 +5,7 @@ Tests for storage module.
 import pytest
 import json
 from pathlib import Path
+from unittest.mock import patch
 from src.storage import PaperMetadata, Storage
 from src.config import Config
 
@@ -251,3 +252,56 @@ class TestStorage:
         storage.add_paper(paper)
 
         assert len(storage) == 1
+
+    def test_load_metadata_json_corrupted_recovery(self, temp_dir, monkeypatch):
+        """Test load_metadata_json handles corrupted JSON gracefully (data integrity).
+
+        Covers lines: storage.py:176-178
+        Value: ⭐⭐⭐⭐ - Critical for data recovery, ensures app doesn't crash on bad data
+        """
+        json_file = temp_dir / 'metadata.json'
+        monkeypatch.setattr(Config, 'METADATA_JSON', json_file)
+
+        # Write corrupted JSON (common when file write is interrupted)
+        json_file.write_text('{ "papers": [{"id": "1", "title": invalid json }')
+
+        storage = Storage()
+
+        with patch('src.storage.logger') as mock_logger:
+            result = storage.load_metadata_json()
+
+            # Should return False indicating load failed
+            assert result is False
+
+            # Should not have loaded any papers
+            assert len(storage.papers) == 0
+
+            # Should log the error
+            error_calls = [str(call) for call in mock_logger.error.call_args_list]
+            assert any('Failed to load metadata JSON' in call for call in error_calls)
+
+    def test_load_metadata_json_with_invalid_structure(self, temp_dir, monkeypatch):
+        """Test load_metadata_json handles valid JSON but invalid structure.
+
+        Covers lines: storage.py:176-178
+        Value: ⭐⭐⭐⭐ - Ensures robustness against schema changes
+        """
+        json_file = temp_dir / 'metadata.json'
+        monkeypatch.setattr(Config, 'METADATA_JSON', json_file)
+
+        # Write valid JSON but with unexpected structure
+        import json
+        json_file.write_text(json.dumps({
+            "wrong_key": "wrong_value",
+            "not_papers": []
+        }))
+
+        storage = Storage()
+
+        with patch('src.storage.logger') as mock_logger:
+            result = storage.load_metadata_json()
+
+            # May succeed or fail depending on implementation
+            # But should not crash
+            assert isinstance(result, bool)
+            assert isinstance(storage.papers, list)

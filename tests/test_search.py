@@ -405,6 +405,87 @@ class TestScholarSearcher:
 
         searcher.close()
 
+    @responses.activate
+    def test_search_stops_at_exact_max_papers(self, temp_dir, monkeypatch):
+        """Test search stops when reaching max_papers mid-page (critical boundary condition).
+
+        Covers lines: search.py:84
+        Value: ⭐⭐⭐⭐ - Critical path, ensures max_papers limit is respected
+        """
+        monkeypatch.setattr(Config, 'REQUEST_DELAY', 0)
+        monkeypatch.setattr(Config, 'METADATA_JSON', temp_dir / 'metadata.json')
+        monkeypatch.setattr(Config, 'METADATA_CSV', temp_dir / 'metadata.csv')
+        monkeypatch.setattr(Config, 'STATE_FILE', temp_dir / 'state.json')
+
+        # Create HTML with 10 papers on a single page
+        html_with_10_papers = """<html>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/1">Paper 1</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/2">Paper 2</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/3">Paper 3</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/4">Paper 4</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/5">Paper 5</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/6">Paper 6</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/7">Paper 7</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/8">Paper 8</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/9">Paper 9</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+            <div class="gs_ri">
+                <h3 class="gs_rt"><a href="http://example.com/10">Paper 10</a></h3>
+                <div class="gs_a">Author - Venue, 2020</div>
+            </div>
+        </html>"""
+
+        import re
+        responses.add(
+            responses.GET,
+            re.compile(r'https://scholar\.google\.com/scholar.*'),
+            body=html_with_10_papers,
+            status=200
+        )
+
+        storage = Storage()
+        # Set max_papers to 3 to test boundary
+        searcher = ScholarSearcher(storage, max_papers=3)
+
+        papers = searcher.search('https://scholar.google.com/scholar?q=test')
+
+        # Should extract exactly 3 papers, not all 10
+        assert len(papers) == 3
+        assert len(storage.papers) == 3
+
+        # Verify the papers are the first 3
+        assert storage.papers[0].title == 'Paper 1'
+        assert storage.papers[1].title == 'Paper 2'
+        assert storage.papers[2].title == 'Paper 3'
+
+        searcher.close()
+
     def test_searcher_close(self):
         """Test resource cleanup."""
         storage = Storage()
