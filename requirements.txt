@@ -12,14 +12,7 @@ tqdm>=4.65.0
 colorama>=0.4.6
 
 # Utilities
-fake-useragent>=1.4.0
 python-dateutil>=2.8.2
-
-# Optional: scholarly library (try first, may have limitations)
-scholarly>=1.7.0
 
 # Retry logic
 tenacity>=8.2.0
-
-# BibTeX parsing
-bibtexparser>=1.4.0
