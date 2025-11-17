@@ -1,0 +1,53 @@
+{
+  "hunt_date": "2025-11-16 23:11:36",
+  "papers_searched": 54,
+  "pdfs_found": 6,
+  "pdfs_downloaded": 0,
+  "sources_used": [
+    "CrossRefAPI"
+  ],
+  "found_papers": [
+    {
+      "paper_id": "36607589b388b201005ab3e7f21a42ab738b537e",
+      "pdf_url": "https://journal.unesa.ac.id/index.php/jetis/article/download/35642/13003",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    },
+    {
+      "paper_id": "389447e1318af795a5165db942ea4072b63ce21e",
+      "pdf_url": "https://ejurnal.ulbi.ac.id/index.php/merpati/article/download/4520/1522",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    },
+    {
+      "paper_id": "25575afbb31d80bfff74b0bcac5fc4ce44fed4d5",
+      "pdf_url": "https://ojs.bbwpublisher.com/index.php/JCER/article/download/7805/6753",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    },
+    {
+      "paper_id": "3e6bd5993bbaf2412de114a78e4480a4e7487005",
+      "pdf_url": "https://jutif.if.unsoed.ac.id/index.php/jurnal/article/download/2163/578",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    },
+    {
+      "paper_id": "031d01bde6fe434cca255b9593e2660c9b1fb5bd",
+      "pdf_url": "https://ojs.unm.ac.id/jorein/article/viewFile/50271/24990",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    },
+    {
+      "paper_id": "4409895973801a21dc8f9852f2ca5d4d08bfcea9",
+      "pdf_url": "https://journal2.um.ac.id/index.php/lite/article/viewFile/51453/13415",
+      "source": "CrossRef",
+      "is_open_access": false,
+      "license": null
+    }
+  ]
+}
