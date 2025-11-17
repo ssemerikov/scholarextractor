@@ -1,0 +1,551 @@
+================================================================================
+MANUAL PDF HUNT - PRIORITY CHECKLIST
+================================================================================
+
+Generated: manual_hunt_priorities.txt
+Total papers without PDFs: 54
+Papers with PDFs: 10
+
+Instructions:
+--------------------------------------------------------------------------------
+1. Start with highest priority papers (top 20 recommended)
+2. For each paper, try sources in this order:
+   a) Google Scholar - search title, look for [PDF] links
+   b) ResearchGate - search title, request from author
+   c) Author website - Google 'FirstAuthor university'
+   d) Publisher website - use DOI link
+3. Mark papers as you find them
+4. Save PDFs with format: Author_Year_Title.pdf
+
+================================================================================
+TOP 20 HIGH-PRIORITY PAPERS
+================================================================================
+
+[ 1] Priority Score: 70/100 (recent paper, quality venue, has DOI)
+     Title: Learning Web Programming: Identifying Complex Topics from Student Discussion Forums and Lecture Slides
+     Authors: Swapna Gottipati, K. Shim, Richie Tan et al. (4 total)
+     Year: 2023 | Citations: 0
+     Venue: IEEE Global Engineering Education Conference
+     DOI: https://doi.org/10.1109/EDUCON54358.2023.10125272
+     Semantic Scholar: https://www.semanticscholar.org/paper/0e961e4608d1feb18b70de3a28ef2b33f0e19c69
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Learning+Web+Programming:+Identifying+Complex+Topics+from+Student+Discussion+Forums+and+Lecture+Slides
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Learning+Web+Programming:+Identifying+Complex+Topics+from+Student+Discussion+Forums+and+Lecture+Slides
+     - Author Search: https://scholar.google.com/scholar?q=Swapna+Gottipati
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 2] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Development of Android-Based Learning Media on Web Programming Subjects at SMK Negeri 1 Ranah Ampek Hulu Tapan
+     Authors: Monica Wingsky, Heri Mulyono, Faiza Rini et al. (6 total)
+     Year: 2025 | Citations: 0
+     Venue: International journal of multidisciplinary research and analysis
+     DOI: https://doi.org/10.47191/ijmra/v8-i07-59
+     Semantic Scholar: https://www.semanticscholar.org/paper/2bf03265fafe1a6f3ab95759b454a03667f361ea
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Development+of+Android-Based+Learning+Media+on+Web+Programming+Subjects+at+SMK+Negeri+1+Ranah+Ampek+Hulu+Tapan
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Development+of+Android-Based+Learning+Media+on+Web+Programming+Subjects+at+SMK+Negeri+1+Ranah+Ampek+Hulu+Tapan
+     - Author Search: https://scholar.google.com/scholar?q=Monica+Wingsky
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 3] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Code Simulator Website for Project-Based Learning to Enhance Front-End Development Competence
+     Authors: Mirna Milasari Milasari, Y. Anistyasari
+     Year: 2025 | Citations: 0
+     Venue: Journal of Education Technology and Information System
+     DOI: https://doi.org/10.26740/jetis.v1i01.35642
+     Semantic Scholar: https://www.semanticscholar.org/paper/36607589b388b201005ab3e7f21a42ab738b537e
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Code+Simulator+Website+for+Project-Based+Learning+to+Enhance+Front-End+Development+Competence
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Code+Simulator+Website+for+Project-Based+Learning+to+Enhance+Front-End+Development+Competence
+     - Author Search: https://scholar.google.com/scholar?q=Mirna+Milasari+Milasari
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 4] Priority Score: 60/100 (recent paper, has DOI)
+     Title: IMPROVING WEB PROGRAMMING COMPETENCE THROUGH LARAVEL BOOTCAMP FOR VOCATIONAL HIGH SCHOOL STUDENTS
+     Authors: Syafrial Fachri Pane, Nyi Raden Nuraini Siti Fathonah, Amri Yanuar et al. (9 total)
+     Year: 2025 | Citations: 0
+     Venue: MERPATI
+     DOI: https://doi.org/10.36618/merpati.v7i1.4520
+     Semantic Scholar: https://www.semanticscholar.org/paper/389447e1318af795a5165db942ea4072b63ce21e
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=IMPROVING+WEB+PROGRAMMING+COMPETENCE+THROUGH+LARAVEL+BOOTCAMP+FOR+VOCATIONAL+HIGH+SCHOOL+STUDENTS
+     - ResearchGate: https://www.researchgate.net/search/publication?q=IMPROVING+WEB+PROGRAMMING+COMPETENCE+THROUGH+LARAVEL+BOOTCAMP+FOR+VOCATIONAL+HIGH+SCHOOL+STUDENTS
+     - Author Search: https://scholar.google.com/scholar?q=Syafrial+Fachri+Pane
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 5] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Students' perceptions of peer assessment in a Web programming course: Reflections on feedback, learning, and professional improvement
+     Authors: Jelena Matejić
+     Year: 2025 | Citations: 0
+     Venue: Journal of Educational Studies in Mathematics and Computer Science
+     DOI: https://doi.org/10.5937/jesmac2501056m
+     Semantic Scholar: https://www.semanticscholar.org/paper/413069f431000b7ab0682e3ab19aa0ee4364daea
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Students'+perceptions+of+peer+assessment+in+a+Web+programming+course:+Reflections+on+feedback,+learning,+and+professional+improvement
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Students'+perceptions+of+peer+assessment+in+a+Web+programming+course:+Reflections+on+feedback,+learning,+and+professional+improvement
+     - Author Search: https://scholar.google.com/scholar?q=Jelena+Matejić
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 6] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Implementation of Test-Driven Approach to Empower Self-Learning in PHP Web Programming Practice
+     Authors: Y. Syaifudin, Triana Fatmawati, Amal Dermawan Udjir et al. (8 total)
+     Year: 2025 | Citations: 0
+     Venue: International Scientific Journal of Computing
+     DOI: https://doi.org/10.47839/ijc.24.2.4015
+     Semantic Scholar: https://www.semanticscholar.org/paper/643359f8d70af9d9b0720c70f82e9696d6409f93
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Implementation+of+Test-Driven+Approach+to+Empower+Self-Learning+in+PHP+Web+Programming+Practice
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Implementation+of+Test-Driven+Approach+to+Empower+Self-Learning+in+PHP+Web+Programming+Practice
+     - Author Search: https://scholar.google.com/scholar?q=Y.+Syaifudin
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 7] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Development of an Interactive Method for Training It Students on The Topic Of "Website Optimization"
+     Authors: Rasulova Tursunoy Paziljanovna
+     Year: 2025 | Citations: 0
+     Venue: European International Journal of Pedagogics
+     DOI: https://doi.org/10.55640/eijp-05-08-16
+     Semantic Scholar: https://www.semanticscholar.org/paper/2e8f54184e7af66c2f42876ef8a6e6fdd129dfac
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Development+of+an+Interactive+Method+for+Training+It+Students+on+The+Topic+Of+"Website+Optimization"
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Development+of+an+Interactive+Method+for+Training+It+Students+on+The+Topic+Of+"Website+Optimization"
+     - Author Search: https://scholar.google.com/scholar?q=Rasulova+Tursunoy+Paziljanovna
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 8] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Empowering Independent Learning in Web Development Using Intelligent Tutoring Systems
+     Authors: Danny Wiselee, Anglie Yanto, Laurens Spits Warnars et al. (5 total)
+     Year: 2025 | Citations: 0
+     Venue: International Conference on Communications and Information Technology
+     DOI: https://doi.org/10.1109/ICCIT65724.2025.11166728
+     Semantic Scholar: https://www.semanticscholar.org/paper/324f0bf49b85cb650459c7caf11db4d9cef1d651
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Empowering+Independent+Learning+in+Web+Development+Using+Intelligent+Tutoring+Systems
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Empowering+Independent+Learning+in+Web+Development+Using+Intelligent+Tutoring+Systems
+     - Author Search: https://scholar.google.com/scholar?q=Danny+Wiselee
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[ 9] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Gamifying Coding Education for Beginners: Empowering Learners with HTML, CSS and JavaScript
+     Authors: Santhush Chandrasekara, Dileep Hewavitharana, Maleesha Weerasinghe et al. (6 total)
+     Year: 2025 | Citations: 0
+     Venue: International Conference on Soft Computing and Software Engineering
+     DOI: https://doi.org/10.1109/SCSE65633.2025.11030977
+     Semantic Scholar: https://www.semanticscholar.org/paper/45a613574ce87f13e02fde52cd6e63e7d8abd97c
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Gamifying+Coding+Education+for+Beginners:+Empowering+Learners+with+HTML,+CSS+and+JavaScript
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Gamifying+Coding+Education+for+Beginners:+Empowering+Learners+with+HTML,+CSS+and+JavaScript
+     - Author Search: https://scholar.google.com/scholar?q=Santhush+Chandrasekara
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[10] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Exploration of the Ideological and Political Education in the “Web Design and Website Construction” Course
+     Authors: Yiyong Ye
+     Year: 2024 | Citations: 0
+     Venue: Journal of Contemporary Educational Research
+     DOI: https://doi.org/10.26689/jcer.v8i7.7805
+     Semantic Scholar: https://www.semanticscholar.org/paper/25575afbb31d80bfff74b0bcac5fc4ce44fed4d5
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Exploration+of+the+Ideological+and+Political+Education+in+the+“Web+Design+and+Website+Construction”+Course
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Exploration+of+the+Ideological+and+Political+Education+in+the+“Web+Design+and+Website+Construction”+Course
+     - Author Search: https://scholar.google.com/scholar?q=Yiyong+Ye
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[11] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Comparative Study of Facial Expression Recognition Using Facial Landmark in e-Learning System
+     Authors: F. Bachtiar, Cesilia Natasya Nainggolan, Riza Setiawan Soetedjo et al. (5 total)
+     Year: 2024 | Citations: 0
+     Venue: 2024 11th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI)
+     DOI: https://doi.org/10.1109/EECSI63442.2024.10776068
+     Semantic Scholar: https://www.semanticscholar.org/paper/4f4abea8e7e44642d28a32d12a14e4b923c24ee3
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Comparative+Study+of+Facial+Expression+Recognition+Using+Facial+Landmark+in+e-Learning+System
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Comparative+Study+of+Facial+Expression+Recognition+Using+Facial+Landmark+in+e-Learning+System
+     - Author Search: https://scholar.google.com/scholar?q=F.+Bachtiar
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[12] Priority Score: 60/100 (recent paper, has DOI)
+     Title: A Design of Phrase Fill-in-Blank Problem in JavaScript-Based Web-Client Programming Learning Assistant System
+     Authors: Huiyu Qi, Zhikang Li, Nobuo Funabiki et al. (4 total)
+     Year: 2024 | Citations: 0
+     Venue: International Conference on Computational Intelligence and Intelligent Systems
+     DOI: https://doi.org/10.1145/3708778.3708799
+     Semantic Scholar: https://www.semanticscholar.org/paper/255a21fe9bce890570b7483ef45bea9428ea5629
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=A+Design+of+Phrase+Fill-in-Blank+Problem+in+JavaScript-Based+Web-Client+Programming+Learning+Assistant+System
+     - ResearchGate: https://www.researchgate.net/search/publication?q=A+Design+of+Phrase+Fill-in-Blank+Problem+in+JavaScript-Based+Web-Client+Programming+Learning+Assistant+System
+     - Author Search: https://scholar.google.com/scholar?q=Huiyu+Qi
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[13] Priority Score: 60/100 (recent paper, has DOI)
+     Title: DESIGN AND CONSTRUCTION OF E-LEARNING MEDIA MOBILE BASED USING ANDROID STUDIO
+     Authors: Harun Aminuddin, Nirsal Nirsal
+     Year: 2024 | Citations: 0
+     Venue: Jurnal Teknik Informatika (Jutif)
+     DOI: https://doi.org/10.52436/1.jutif.2024.5.4.2163
+     Semantic Scholar: https://www.semanticscholar.org/paper/3e6bd5993bbaf2412de114a78e4480a4e7487005
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=DESIGN+AND+CONSTRUCTION+OF+E-LEARNING+MEDIA+MOBILE+BASED+USING+ANDROID+STUDIO
+     - ResearchGate: https://www.researchgate.net/search/publication?q=DESIGN+AND+CONSTRUCTION+OF+E-LEARNING+MEDIA+MOBILE+BASED+USING+ANDROID+STUDIO
+     - Author Search: https://scholar.google.com/scholar?q=Harun+Aminuddin
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[14] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Web-Based E-Learning Application For Mathematics And Indonesian Language Subjects At Sman 4 South Tangerang Using Html And Php
+     Authors: Desy Diana, Munich Heindari Ekasari
+     Year: 2024 | Citations: 0
+     Venue: Journal of Renewable Engineering
+     DOI: https://doi.org/10.62872/8jd9jp85
+     Semantic Scholar: https://www.semanticscholar.org/paper/5b6d26f70c3f90067f4803d1ed57e4e43de64c5d
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Web-Based+E-Learning+Application+For+Mathematics+And+Indonesian+Language+Subjects+At+Sman+4+South+Tangerang+Using+Html+And+Php
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Web-Based+E-Learning+Application+For+Mathematics+And+Indonesian+Language+Subjects+At+Sman+4+South+Tangerang+Using+Html+And+Php
+     - Author Search: https://scholar.google.com/scholar?q=Desy+Diana
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[15] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Development of Learning Media Innovation for Android-Based Web Programming Courses
+     Authors: Muhammad Alam Nur Haris, Mustari Lamada, S. Syamsurijal
+     Year: 2023 | Citations: 0
+     Venue: Journal of Research and Innovation
+     DOI: https://doi.org/10.59562/jorein.v1i2.50271
+     Semantic Scholar: https://www.semanticscholar.org/paper/031d01bde6fe434cca255b9593e2660c9b1fb5bd
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Development+of+Learning+Media+Innovation+for+Android-Based+Web+Programming+Courses
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Development+of+Learning+Media+Innovation+for+Android-Based+Web+Programming+Courses
+     - Author Search: https://scholar.google.com/scholar?q=Muhammad+Alam+Nur+Haris
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[16] Priority Score: 60/100 (recent paper, has DOI)
+     Title: Responsive Web Design Learning Media: Enhancing Student Independence in Vocational Web Programming
+     Authors: Wira Tri Yoga, K. Kusumadyahdewi, Wahyu Mulyo Utomo
+     Year: 2023 | Citations: 0
+     Venue: Letters in Information Technology Education (LITE)
+     DOI: https://doi.org/10.17977/um010v6i22023p64-69
+     Semantic Scholar: https://www.semanticscholar.org/paper/4409895973801a21dc8f9852f2ca5d4d08bfcea9
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Responsive+Web+Design+Learning+Media:+Enhancing+Student+Independence+in+Vocational+Web+Programming
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Responsive+Web+Design+Learning+Media:+Enhancing+Student+Independence+in+Vocational+Web+Programming
+     - Author Search: https://scholar.google.com/scholar?q=Wira+Tri+Yoga
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[17] Priority Score: 45/100 (has DOI)
+     Title: Investigating a new approach for teaching the JavaScript DOM
+     Authors: Seán Doyle
+     Year: 2020 | Citations: 0
+     Venue: 
+     DOI: https://doi.org/10.25316/IR-15258
+     Semantic Scholar: https://www.semanticscholar.org/paper/584993d27fc55e29391545492d87d3ab244e4bf9
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=Investigating+a+new+approach+for+teaching+the+JavaScript+DOM
+     - ResearchGate: https://www.researchgate.net/search/publication?q=Investigating+a+new+approach+for+teaching+the+JavaScript+DOM
+     - Author Search: https://scholar.google.com/scholar?q=Seán+Doyle
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[18] Priority Score: 40/100 (recent paper)
+     Title: The blended teaching practice in the web development fundamentals course
+     Authors: Changli Feng, Haiyan Wei, Xueming Bai et al. (6 total)
+     Year: 2023 | Citations: 0
+     Venue: 
+     Semantic Scholar: https://www.semanticscholar.org/paper/2fe20aea6111a5e1328e4680c553698567ff226c
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=The+blended+teaching+practice+in+the+web+development+fundamentals+course
+     - ResearchGate: https://www.researchgate.net/search/publication?q=The+blended+teaching+practice+in+the+web+development+fundamentals+course
+     - Author Search: https://scholar.google.com/scholar?q=Changli+Feng
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[19] Priority Score: 35/100 (low priority)
+     Title: An Event Listener or an Event Handler? Students Explain Event-drivenness in JavaScript
+     Authors: Aleksi Lukkarinen, T. Lehtinen, Lassi Haaranen et al. (4 total)
+     Year: 2021 | Citations: 0
+     Venue: 
+     Semantic Scholar: https://www.semanticscholar.org/paper/0e69b49cd93b0421f68be38bb26e24dc23da94da
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q=An+Event+Listener+or+an+Event+Handler?+Students+Explain+Event-drivenness+in+JavaScript
+     - ResearchGate: https://www.researchgate.net/search/publication?q=An+Event+Listener+or+an+Event+Handler?+Students+Explain+Event-drivenness+in+JavaScript
+     - Author Search: https://scholar.google.com/scholar?q=Aleksi+Lukkarinen
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+[20] Priority Score: 35/100 (low priority)
+     Title: "Unboxing the Sandbox": A New Method of Learning PHP Advanced Web Programming
+     Authors: Mohamad Rahimi, M. Rosman, M. A. Aziz et al. (5 total)
+     Year: 2020 | Citations: 0
+     Venue: 
+     Semantic Scholar: https://www.semanticscholar.org/paper/25717e5f386d2fe2bc31401bd40c9ae2e8c38eb1
+
+     Quick Links:
+     - Google Scholar: https://scholar.google.com/scholar?q="Unboxing+the+Sandbox":+A+New+Method+of+Learning+PHP+Advanced+Web+Programming
+     - ResearchGate: https://www.researchgate.net/search/publication?q="Unboxing+the+Sandbox":+A+New+Method+of+Learning+PHP+Advanced+Web+Programming
+     - Author Search: https://scholar.google.com/scholar?q=Mohamad+Rahimi
+
+     [ ] Found PDF
+     [ ] Downloaded
+
+--------------------------------------------------------------------------------
+
+
+================================================================================
+NEXT 20 MEDIUM-PRIORITY PAPERS
+================================================================================
+
+[21] Learners’ and Educators’ Perspectives on the Value of Web Design in th...
+     Score: 35 | Year: 2016 | Citations: 0
+     DOI: https://doi.org/10.1080/18117295.2016.1236999
+     [ ] Found
+
+[22] Web Based E-Learning System for C-Language...
+     Score: 30 | Year: 2013 | Citations: 0
+     DOI: https://doi.org/10.4028/www.scientific.net/AMM.427-429.2870
+     [ ] Found
+
+[23] Discussion on the Education of the Most Sought-after Skill in Web Deve...
+     Score: 30 | Year: 2012 | Citations: 0
+     DOI: https://doi.org/10.1007/978-3-642-28655-1_89
+     [ ] Found
+
+[24] Lozinskaya A. M., Yahabipova I. M. COMPARATIVE ANALYSIS OF ON-LINE SER...
+     Score: 25 | Year: 2018 | Citations: 0
+     [ ] Found
+
+[25] Development and Assessment of E-Learning Software and Instructional Tr...
+     Score: 25 | Year: 2018 | Citations: 0
+     [ ] Found
+
+[26] Formal concept analysis for e-learning...
+     Score: 25 | Year: 2017 | Citations: 0
+     [ ] Found
+
+[27] Stop downloading. Start uploading. Web development takes students from...
+     Score: 25 | Year: 2016 | Citations: 0
+     [ ] Found
+
+[28] IMPLEMENTASI PEMBELAJARAN E-LEARNING BERBASISMOODLE PADA PROGRAM STUDI...
+     Score: 25 | Year: 2015 | Citations: 0
+     [ ] Found
+
+[29] Problem based e-learning system for PHP...
+     Score: 25 | Year: 2015 | Citations: 0
+     [ ] Found
+
+[30] Snapshots of Student Behavior During Online Learning...
+     Score: 25 | Year: 2015 | Citations: 0
+     [ ] Found
+
+[31] Application of Project-Driven Case Teaching in Dynamic Web Design Cour...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[32] Application of Scaffolding Instruction in Web Design and Production Co...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[33] Responsive Web Design Based Educational Systems Research and Construct...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[34] Development of a Blended Learning Model for Apprenticeship Vocational ...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[35] Research on the Application of Heuristic Teaching Method in Web Develo...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[36] Hacks and hackers in the classroom: facilitating communication and col...
+     Score: 20 | Year: 2013 | Citations: 0
+     [ ] Found
+
+[37] Application of “Six-states” Teaching Method in the Teaching of “Web De...
+     Score: 20 | Year: 2012 | Citations: 0
+     [ ] Found
+
+[38] Application Project Teaching Method in the"Web Design"Teaching...
+     Score: 20 | Year: 2012 | Citations: 0
+     [ ] Found
+
+[39] Study on Web Design Teaching in Art Design Major of Vocational College...
+     Score: 20 | Year: 2012 | Citations: 0
+     [ ] Found
+
+[40] Practice Teaching Reform of Web Programming...
+     Score: 20 | Year: 2012 | Citations: 0
+     [ ] Found
+
+
+================================================================================
+REMAINING 14 LOW-PRIORITY PAPERS
+================================================================================
+
+[41] wProjects : Dynamic Web Development Projects for Female High... (Score: 20)
+[42] On Teaching Reform of Java Web Development Course in Higher ... (Score: 20)
+[43] On Website Plan and Courses Reform... (Score: 20)
+[44] Picture Photography and Editing Learning Website Design Stra... (Score: 20)
+[45] The Influence Capability of Mathematics and English Language... (Score: 20)
+[46] Improve Web Design Curriculum Teaching of Art Professional w... (Score: 20)
+[47] By "Speaking Lesson" the Form Expounds the Teaching of Highe... (Score: 20)
+[48] ELEARNING WEBSITE MAKING LANGUAGES C USING PHP AND MYSQL... (Score: 20)
+[49] MAKING MATERIAL MECHANICS E-LEARNING APPLICATIONS USING PHP ... (Score: 20)
+[50] Practice and Design of Web Development Course Practice Teach... (Score: 20)
+[51] MAKING Student WEBSITE OF SMA N 8 BOGOR USING MACROMEDIA DRE... (Score: 20)
+[52] Development and Construction of Project Course on Business W... (Score: 20)
+[53] Discussion of the Project Approach in the "HTML Web Design" ... (Score: 20)
+[54] On JavaScript Case Teaching in Higher Vocational Colleges... (Score: 20)
+
+
+================================================================================
+STATISTICS
+================================================================================
+
+Priority Distribution:
+  High (≥70):   1 papers
+  Medium (50-69): 15 papers
+  Low (<50):    38 papers
+
+Papers with DOI: 20/54 (37.0%)
+
+Year Distribution:
+  2025: 8 papers
+  2024: 5 papers
+  2023: 4 papers
+  2021: 1 papers
+  2020: 2 papers
+  2018: 2 papers
+  2017: 1 papers
+  2016: 2 papers
+  2015: 3 papers
+  2013: 7 papers
+  2012: 7 papers
+  2011: 9 papers
+  2010: 3 papers
+
+
+================================================================================
+MANUAL SEARCH TIPS
+================================================================================
+
+Google Scholar:
+  - Use exact title in quotes
+  - Look for [PDF] link on right side
+  - Check 'All versions' for institutional repos
+
+ResearchGate:
+  - Search by exact title
+  - Use 'Request full-text' button
+  - Check author profiles
+
+Author Websites:
+  - Google 'FirstAuthor LastAuthor university'
+  - Check personal/lab websites
+  - Look for 'Publications' or 'Papers' page
+
+Publisher Websites:
+  - Use DOI link to go to publisher
+  - Look for 'Download PDF' or 'Free PDF'
+  - Check if paper is 'gold open access'
+
+Institutional Repositories:
+  - Extract university from author affiliation
+  - Search '{University} institutional repository'
+  - Try variations (DSpace, EPrints, etc.)
+
+Email Authors:
+  - Find email from author profile
+  - Polite request with research context
+  - Response rate ~30% within 1 week
+
+================================================================================
