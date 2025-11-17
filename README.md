@@ -2,7 +2,20 @@
 
 A robust Python tool for extracting comprehensive metadata and downloading papers from Google Scholar.
 
+**Designed for Academic Research**: This tool supports systematic reviews, meta-analyses, and other scholarly research activities by automating the collection of papers and metadata from Google Scholar.
+
+## Author & Development
+
+- **Author**: Serhiy O. Semerikov <semerikov@gmail.com>
+- **Developed with**: Claude Code for Web (Anthropic) - an AI-powered development tool that supports academic research software development
+
 ## Features
+
+- **Academic Research Support**:
+  - Designed for systematic literature reviews
+  - Supports meta-analyses and bibliometric studies
+  - Facilitates evidence-based research workflows
+  - Automates time-consuming paper collection tasks
 
 - **Metadata Extraction**: Extract detailed paper metadata including:
   - Title, authors, publication year
@@ -309,6 +322,9 @@ For issues, questions, or suggestions:
 - Review logs in `data/scholarextractor.log`
 
 ## Acknowledgments
+
+**Author**: Serhiy O. Semerikov (semerikov@gmail.com)
+**Development Tool**: Claude Code for Web by Anthropic - demonstrating how AI-assisted development can support academic research and systematic review workflows.
 
 Built with:
 - [BeautifulSoup4](https://www.crummy.com/software/BeautifulSoup/) - HTML parsing
