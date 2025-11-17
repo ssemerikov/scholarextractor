@@ -5,6 +5,19 @@
 **Development Date**: 2025-11-16
 **Branch**: claude/plan-development-strategy-01WeBFDUixTJVAaQCv8nUdS9
 
+**Author**: Serhiy O. Semerikov <semerikov@gmail.com>
+**Development Tool**: Claude Code for Web (Anthropic)
+
+## About This Project
+
+This tool was developed to support academic research, particularly systematic literature reviews and meta-analyses. It demonstrates how Claude Code for Web can be used to create sophisticated research tools that automate time-consuming tasks in the scholarly research workflow.
+
+**Use Case**: Systematic Reviews & Academic Research
+- Automates paper collection for systematic literature reviews
+- Facilitates meta-analyses and bibliometric studies
+- Supports evidence-based research methodologies
+- Reduces manual effort in literature search and organization
+
 ## Project Goal
 
 Extract comprehensive metadata and download paper files (~64 papers) from Google Scholar based on this query:
@@ -508,11 +521,20 @@ The Scholar Extractor tool has been successfully developed with all core functio
 - ✅ Multiple export formats
 - ✅ Resumability support
 - ✅ Ethical scraping practices
+- ✅ Academic research support (systematic reviews)
 
 **Ready for**: Testing with actual Google Scholar query and production use.
 
+## Development Attribution
+
+**Author**: Serhiy O. Semerikov (semerikov@gmail.com)
+**Development Tool**: Claude Code for Web by Anthropic
+
+This project demonstrates the capability of Claude Code for Web to support academic research by creating tools for systematic literature reviews, meta-analyses, and other scholarly research activities. The AI-assisted development process enabled rapid prototyping and implementation of a comprehensive research tool with robust error handling and ethical web scraping practices.
+
 ---
 
-*Last Updated: 2025-11-16*
-*Developer: Claude (Anthropic)*
-*Branch: claude/plan-development-strategy-01WeBFDUixTJVAaQCv8nUdS9*
+*Last Updated: 2025-11-17*
+*Author: Serhiy O. Semerikov*
+*Developed with: Claude Code for Web (Anthropic)*
+*Branch: claude/add-authorship-attribution-0182zmsZkp6RtXJ1d5nTgPTE*
